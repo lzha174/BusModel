@@ -1,0 +1,1681 @@
+id,start,dest,show time,on bus
+0,Oruamo Domain,Roberts Road,583,5000
+1,Oruamo Domain,St Mary Catholic Church,643,5000
+2,Oruamo Domain,Coroglen Avenue,757,5000
+3,Oruamo Domain,Bruce Street,1174,5000
+4,Oruamo Domain,Onewa Road,2081,5000
+5,Oruamo Domain,Park Avenue,2276,5000
+6,Oruamo Domain,Birkenhead Avenue,2313,5000
+7,Oruamo Domain,Coronation Road,2352,5000
+8,Oruamo Domain,St Mary Catholic Church,2515,5000
+9,Oruamo Domain,Pupuke Road,2595,5000
+10,Oruamo Domain,St Mary Catholic Church,2700,5000
+11,Oruamo Domain,Northcote Primary School,3197,5000
+12,Oruamo Domain,Waratah Street,4064,5000
+13,Oruamo Domain,Bruce Street,4301,5000
+14,Oruamo Domain,Fanshawe Street,4720,5000
+15,Oruamo Domain,Coroglen Avenue,5401,10000
+16,Oruamo Domain,Waratah Street,5603,10000
+17,Oruamo Domain,St Mary Catholic Church,5900,10000
+18,Oruamo Domain,Fanshawe Street,6076,10000
+19,Oruamo Domain,Onewa Road,6104,10000
+20,Oruamo Domain,Park Avenue,6527,10000
+21,Oruamo Domain,Bruce Street,6647,10000
+22,Oruamo Domain,Bruce Street,7215,10000
+23,Oruamo Domain,Fanshawe Street,7744,10000
+24,Oruamo Domain,Coronation Road,8234,10000
+25,Oruamo Domain,Roberts Road,8617,10000
+26,Oruamo Domain,Onewa Road,8775,10000
+27,Oruamo Domain,Northcote Primary School,8989,10000
+28,Oruamo Domain,Roberts Road,9613,10000
+29,Oruamo Domain,Northcote Primary School,9984,10000
+30,Oruamo Domain,McDowell Crescent,9999,10000
+31,Oruamo Domain,Coronation Road,10780,15000
+32,Oruamo Domain,McDowell Crescent,10888,15000
+33,Oruamo Domain,Onewa Road,10912,15000
+34,Oruamo Domain,McDowell Crescent,10945,15000
+35,Oruamo Domain,Aorangi Place,11072,15000
+36,Oruamo Domain,Birkenhead Avenue,11237,15000
+37,Oruamo Domain,Park Avenue,11494,15000
+38,Oruamo Domain,McDowell Crescent,12863,15000
+39,Oruamo Domain,Birkenhead Avenue,13493,15000
+40,Oruamo Domain,Waratah Street,13779,15000
+41,Oruamo Domain,St Mary Catholic Church,14127,15000
+42,Oruamo Domain,Bruce Street,14947,15000
+43,Oruamo Domain,Fanshawe Street,15022,20000
+44,Oruamo Domain,Park Avenue,15452,20000
+45,Oruamo Domain,Park Avenue,15970,20000
+46,Oruamo Domain,Roberts Road,16277,20000
+47,Oruamo Domain,Aorangi Place,17395,20000
+48,Oruamo Domain,Northcote Primary School,18501,20000
+49,Oruamo Domain,Birkenhead Avenue,18752,20000
+50,Oruamo Domain,Bruce Street,18920,20000
+51,Oruamo Domain,Aorangi Place,19203,20000
+52,Oruamo Domain,Northcote Primary School,19857,20000
+53,Oruamo Domain,Bruce Street,19927,20000
+54,Oruamo Domain,Onewa Road,20663,25000
+55,Oruamo Domain,Onewa Road,20845,25000
+56,Oruamo Domain,Coroglen Avenue,21085,25000
+57,Oruamo Domain,Aorangi Place,21280,25000
+58,Oruamo Domain,Bruce Street,21334,25000
+59,Oruamo Domain,Aorangi Place,22077,25000
+60,Oruamo Domain,Onewa Road,22120,25000
+61,Oruamo Domain,Aorangi Place,22365,25000
+62,Oruamo Domain,Coroglen Avenue,22648,25000
+63,Oruamo Domain,McDowell Crescent,22803,25000
+64,Oruamo Domain,Bruce Street,23109,25000
+65,Oruamo Domain,Onewa Road,23795,25000
+66,Oruamo Domain,Northcote Primary School,23989,25000
+67,Oruamo Domain,McDowell Crescent,24002,25000
+68,Oruamo Domain,Roberts Road,24294,25000
+69,Oruamo Domain,McDowell Crescent,24659,25000
+70,Oruamo Domain,Coroglen Avenue,24873,25000
+71,Oruamo Domain,Coronation Road,25274,30000
+72,Oruamo Domain,Onewa Road,25836,30000
+73,Oruamo Domain,Onewa Road,25870,30000
+74,Oruamo Domain,Fanshawe Street,25991,30000
+75,Oruamo Domain,Coroglen Avenue,26003,30000
+76,Oruamo Domain,McDowell Crescent,26139,30000
+77,Oruamo Domain,Birkenhead Avenue,26399,30000
+78,Oruamo Domain,Bruce Street,26451,30000
+79,Oruamo Domain,Bruce Street,26649,30000
+80,Oruamo Domain,Pupuke Road,26770,30000
+81,Oruamo Domain,Pupuke Road,27843,30000
+82,Oruamo Domain,Coronation Road,28190,30000
+83,Oruamo Domain,Coronation Road,28612,30000
+84,Oruamo Domain,Pupuke Road,29168,30000
+85,Oruamo Domain,Coroglen Avenue,29263,30000
+86,Oruamo Domain,Roberts Road,29780,30000
+87,Oruamo Domain,Park Avenue,29903,30000
+88,Oruamo Domain,Onewa Road,30478,35000
+89,Oruamo Domain,Birkenhead Avenue,30829,35000
+90,Oruamo Domain,Bruce Street,31792,35000
+91,Oruamo Domain,Pupuke Road,32162,35000
+92,Oruamo Domain,Fanshawe Street,32826,35000
+93,Oruamo Domain,Onewa Road,33059,35000
+94,Oruamo Domain,Park Avenue,33082,35000
+95,Oruamo Domain,St Mary Catholic Church,33700,35000
+96,Oruamo Domain,St Mary Catholic Church,34564,35000
+97,Oruamo Domain,Roberts Road,35211,40000
+98,Oruamo Domain,Onewa Road,35315,40000
+99,Oruamo Domain,Aorangi Place,35506,40000
+100,Oruamo Domain,Coronation Road,36824,40000
+101,Oruamo Domain,Park Avenue,37996,40000
+102,Oruamo Domain,Coroglen Avenue,38320,40000
+103,Oruamo Domain,Coroglen Avenue,38763,40000
+104,Oruamo Domain,St Mary Catholic Church,39635,40000
+105,Oruamo Domain,Pupuke Road,40309,45000
+106,Oruamo Domain,Coronation Road,40636,45000
+107,Oruamo Domain,Bruce Street,41119,45000
+108,Oruamo Domain,Aorangi Place,41593,45000
+109,Oruamo Domain,McDowell Crescent,42091,45000
+110,Oruamo Domain,Aorangi Place,42849,45000
+111,Oruamo Domain,Roberts Road,43124,45000
+112,Oruamo Domain,Waratah Street,43177,45000
+113,Oruamo Domain,St Mary Catholic Church,43670,45000
+114,Oruamo Domain,Onewa Road,43914,45000
+115,Oruamo Domain,Birkenhead Avenue,44606,45000
+116,Oruamo Domain,Fanshawe Street,44687,45000
+117,Oruamo Domain,Coroglen Avenue,44818,45000
+118,Oruamo Domain,Park Avenue,45089,0
+119,Oruamo Domain,Coroglen Avenue,45308,0
+120,Roberts Road,McDowell Crescent,440,500
+121,Roberts Road,Coronation Road,827,5500
+122,Roberts Road,Pupuke Road,1174,5500
+123,Roberts Road,Park Avenue,1344,5500
+124,Roberts Road,Coroglen Avenue,1677,5500
+125,Roberts Road,Bruce Street,1721,5500
+126,Roberts Road,St Mary Catholic Church,2073,5500
+127,Roberts Road,Park Avenue,2172,5500
+128,Roberts Road,Northcote Primary School,2315,5500
+129,Roberts Road,Park Avenue,2497,5500
+130,Roberts Road,Coroglen Avenue,3287,5500
+131,Roberts Road,McDowell Crescent,3321,5500
+132,Roberts Road,Waratah Street,3450,5500
+133,Roberts Road,Park Avenue,3914,5500
+134,Roberts Road,Coronation Road,5740,10500
+135,Roberts Road,Onewa Road,5912,10500
+136,Roberts Road,St Mary Catholic Church,6228,10500
+137,Roberts Road,McDowell Crescent,6273,10500
+138,Roberts Road,Coroglen Avenue,6446,10500
+139,Roberts Road,Coroglen Avenue,6860,10500
+140,Roberts Road,Waratah Street,6878,10500
+141,Roberts Road,Pupuke Road,6952,10500
+142,Roberts Road,Fanshawe Street,7279,10500
+143,Roberts Road,Park Avenue,7740,10500
+144,Roberts Road,Aorangi Place,8744,10500
+145,Roberts Road,Onewa Road,9460,10500
+146,Roberts Road,Waratah Street,9623,10500
+147,Roberts Road,Aorangi Place,9673,10500
+148,Roberts Road,Coronation Road,10012,10500
+149,Roberts Road,Waratah Street,10326,10500
+150,Roberts Road,Pupuke Road,10874,15500
+151,Roberts Road,Birkenhead Avenue,11029,15500
+152,Roberts Road,Waratah Street,12008,15500
+153,Roberts Road,Onewa Road,12621,15500
+154,Roberts Road,Birkenhead Avenue,13406,15500
+155,Roberts Road,Bruce Street,13531,15500
+156,Roberts Road,Coronation Road,13559,15500
+157,Roberts Road,Birkenhead Avenue,13931,15500
+158,Roberts Road,Northcote Primary School,14033,15500
+159,Roberts Road,Coronation Road,14279,15500
+160,Roberts Road,Coroglen Avenue,15637,20500
+161,Roberts Road,Birkenhead Avenue,15745,20500
+162,Roberts Road,Fanshawe Street,16287,20500
+163,Roberts Road,Bruce Street,16526,20500
+164,Roberts Road,Coroglen Avenue,16826,20500
+165,Roberts Road,Northcote Primary School,16867,20500
+166,Roberts Road,Park Avenue,17022,20500
+167,Roberts Road,Northcote Primary School,17041,20500
+168,Roberts Road,Coronation Road,17080,20500
+169,Roberts Road,Bruce Street,17085,20500
+170,Roberts Road,Coronation Road,17137,20500
+171,Roberts Road,Coroglen Avenue,17484,20500
+172,Roberts Road,Park Avenue,17492,20500
+173,Roberts Road,Birkenhead Avenue,18939,20500
+174,Roberts Road,Northcote Primary School,19929,20500
+175,Roberts Road,Birkenhead Avenue,20194,20500
+176,Roberts Road,Coronation Road,20215,20500
+177,Roberts Road,Fanshawe Street,20245,20500
+178,Roberts Road,St Mary Catholic Church,22339,25500
+179,Roberts Road,Onewa Road,22598,25500
+180,Roberts Road,Aorangi Place,22919,25500
+181,Roberts Road,Park Avenue,23030,25500
+182,Roberts Road,Coroglen Avenue,23094,25500
+183,Roberts Road,St Mary Catholic Church,23556,25500
+184,Roberts Road,Northcote Primary School,23775,25500
+185,Roberts Road,St Mary Catholic Church,23789,25500
+186,Roberts Road,Pupuke Road,24724,25500
+187,Roberts Road,Northcote Primary School,25028,25500
+188,Roberts Road,St Mary Catholic Church,25731,30500
+189,Roberts Road,Aorangi Place,26055,30500
+190,Roberts Road,Birkenhead Avenue,26532,30500
+191,Roberts Road,Pupuke Road,26887,30500
+192,Roberts Road,Aorangi Place,27264,30500
+193,Roberts Road,Bruce Street,27630,30500
+194,Roberts Road,Aorangi Place,27745,30500
+195,Roberts Road,Waratah Street,28377,30500
+196,Roberts Road,St Mary Catholic Church,29899,30500
+197,Roberts Road,McDowell Crescent,30117,30500
+198,Roberts Road,Park Avenue,30271,30500
+199,Roberts Road,Northcote Primary School,30365,30500
+200,Roberts Road,Park Avenue,30623,35500
+201,Roberts Road,St Mary Catholic Church,30693,35500
+202,Roberts Road,Pupuke Road,30843,35500
+203,Roberts Road,Bruce Street,31024,35500
+204,Roberts Road,Pupuke Road,31049,35500
+205,Roberts Road,St Mary Catholic Church,31165,35500
+206,Roberts Road,St Mary Catholic Church,31840,35500
+207,Roberts Road,Bruce Street,31872,35500
+208,Roberts Road,Park Avenue,32242,35500
+209,Roberts Road,Park Avenue,32587,35500
+210,Roberts Road,Northcote Primary School,32996,35500
+211,Roberts Road,Coronation Road,33334,35500
+212,Roberts Road,McDowell Crescent,34319,35500
+213,Roberts Road,Waratah Street,34520,35500
+214,Roberts Road,Waratah Street,35067,35500
+215,Roberts Road,McDowell Crescent,35530,40500
+216,Roberts Road,Pupuke Road,35588,40500
+217,Roberts Road,McDowell Crescent,35828,40500
+218,Roberts Road,Coroglen Avenue,36096,40500
+219,Roberts Road,Onewa Road,36401,40500
+220,Roberts Road,Aorangi Place,37647,40500
+221,Roberts Road,Pupuke Road,37813,40500
+222,Roberts Road,Waratah Street,37856,40500
+223,Roberts Road,McDowell Crescent,38902,40500
+224,Roberts Road,Coroglen Avenue,39798,40500
+225,Roberts Road,Onewa Road,39900,40500
+226,Roberts Road,Bruce Street,40079,40500
+227,Roberts Road,Birkenhead Avenue,40596,45500
+228,Roberts Road,Coroglen Avenue,41307,45500
+229,Roberts Road,Coroglen Avenue,41521,45500
+230,Roberts Road,Coroglen Avenue,41780,45500
+231,Roberts Road,Onewa Road,41937,45500
+232,Roberts Road,Birkenhead Avenue,41976,45500
+233,Roberts Road,Fanshawe Street,43052,45500
+234,Roberts Road,Birkenhead Avenue,43233,45500
+235,Roberts Road,Aorangi Place,43512,45500
+236,Roberts Road,Birkenhead Avenue,43995,45500
+237,Roberts Road,Bruce Street,44066,45500
+238,Roberts Road,Birkenhead Avenue,44488,45500
+239,Roberts Road,Birkenhead Avenue,44534,45500
+240,Coronation Road,Waratah Street,113,1000
+241,Coronation Road,Pupuke Road,971,1000
+242,Coronation Road,Waratah Street,2710,6000
+243,Coronation Road,Coroglen Avenue,3174,6000
+244,Coronation Road,Northcote Primary School,3243,6000
+245,Coronation Road,Birkenhead Avenue,3454,6000
+246,Coronation Road,Fanshawe Street,3551,6000
+247,Coronation Road,Birkenhead Avenue,4041,6000
+248,Coronation Road,McDowell Crescent,4364,6000
+249,Coronation Road,Waratah Street,4469,6000
+250,Coronation Road,Onewa Road,4493,6000
+251,Coronation Road,Waratah Street,4572,6000
+252,Coronation Road,Waratah Street,5251,6000
+253,Coronation Road,Coroglen Avenue,5535,6000
+254,Coronation Road,Park Avenue,5754,6000
+255,Coronation Road,Pupuke Road,6205,11000
+256,Coronation Road,Pupuke Road,6570,11000
+257,Coronation Road,McDowell Crescent,6918,11000
+258,Coronation Road,Fanshawe Street,7306,11000
+259,Coronation Road,McDowell Crescent,7415,11000
+260,Coronation Road,Bruce Street,7949,11000
+261,Coronation Road,Onewa Road,7961,11000
+262,Coronation Road,Onewa Road,8112,11000
+263,Coronation Road,St Mary Catholic Church,8459,11000
+264,Coronation Road,Park Avenue,8917,11000
+265,Coronation Road,Fanshawe Street,8987,11000
+266,Coronation Road,Park Avenue,9369,11000
+267,Coronation Road,Fanshawe Street,9470,11000
+268,Coronation Road,Waratah Street,9752,11000
+269,Coronation Road,Bruce Street,9886,11000
+270,Coronation Road,Aorangi Place,10268,11000
+271,Coronation Road,Bruce Street,10600,11000
+272,Coronation Road,Pupuke Road,10786,11000
+273,Coronation Road,Birkenhead Avenue,11737,16000
+274,Coronation Road,Aorangi Place,12306,16000
+275,Coronation Road,McDowell Crescent,12453,16000
+276,Coronation Road,Northcote Primary School,12568,16000
+277,Coronation Road,Waratah Street,12848,16000
+278,Coronation Road,Aorangi Place,13034,16000
+279,Coronation Road,Pupuke Road,13140,16000
+280,Coronation Road,Bruce Street,13594,16000
+281,Coronation Road,St Mary Catholic Church,13811,16000
+282,Coronation Road,Onewa Road,14680,16000
+283,Coronation Road,Birkenhead Avenue,14977,16000
+284,Coronation Road,Pupuke Road,15152,16000
+285,Coronation Road,St Mary Catholic Church,15532,16000
+286,Coronation Road,Birkenhead Avenue,16703,21000
+287,Coronation Road,Northcote Primary School,17403,21000
+288,Coronation Road,Coroglen Avenue,17467,21000
+289,Coronation Road,Aorangi Place,17931,21000
+290,Coronation Road,Pupuke Road,18042,21000
+291,Coronation Road,Waratah Street,18080,21000
+292,Coronation Road,Pupuke Road,18861,21000
+293,Coronation Road,Onewa Road,19283,21000
+294,Coronation Road,McDowell Crescent,20178,21000
+295,Coronation Road,St Mary Catholic Church,21096,26000
+296,Coronation Road,Onewa Road,21348,26000
+297,Coronation Road,Coroglen Avenue,21388,26000
+298,Coronation Road,Aorangi Place,21801,26000
+299,Coronation Road,Fanshawe Street,22372,26000
+300,Coronation Road,Bruce Street,22846,26000
+301,Coronation Road,Onewa Road,22967,26000
+302,Coronation Road,Pupuke Road,23159,26000
+303,Coronation Road,Northcote Primary School,23851,26000
+304,Coronation Road,Pupuke Road,24507,26000
+305,Coronation Road,Fanshawe Street,25470,26000
+306,Coronation Road,Waratah Street,26539,31000
+307,Coronation Road,Pupuke Road,26663,31000
+308,Coronation Road,Pupuke Road,26757,31000
+309,Coronation Road,St Mary Catholic Church,27019,31000
+310,Coronation Road,Coroglen Avenue,27175,31000
+311,Coronation Road,Bruce Street,27858,31000
+312,Coronation Road,Park Avenue,28206,31000
+313,Coronation Road,Birkenhead Avenue,28386,31000
+314,Coronation Road,Aorangi Place,28699,31000
+315,Coronation Road,Coroglen Avenue,28904,31000
+316,Coronation Road,McDowell Crescent,30340,31000
+317,Coronation Road,Aorangi Place,30992,31000
+318,Coronation Road,Birkenhead Avenue,31070,36000
+319,Coronation Road,Coroglen Avenue,31656,36000
+320,Coronation Road,St Mary Catholic Church,31782,36000
+321,Coronation Road,McDowell Crescent,32456,36000
+322,Coronation Road,Birkenhead Avenue,33131,36000
+323,Coronation Road,Aorangi Place,33310,36000
+324,Coronation Road,Park Avenue,33664,36000
+325,Coronation Road,Park Avenue,33697,36000
+326,Coronation Road,Onewa Road,34091,36000
+327,Coronation Road,Northcote Primary School,34185,36000
+328,Coronation Road,McDowell Crescent,34693,36000
+329,Coronation Road,Onewa Road,34715,36000
+330,Coronation Road,Pupuke Road,34866,36000
+331,Coronation Road,Waratah Street,34868,36000
+332,Coronation Road,McDowell Crescent,35260,36000
+333,Coronation Road,Aorangi Place,38490,41000
+334,Coronation Road,Onewa Road,39128,41000
+335,Coronation Road,Birkenhead Avenue,42023,46000
+336,Coronation Road,McDowell Crescent,42109,46000
+337,Coronation Road,Park Avenue,42843,46000
+338,Coronation Road,Park Avenue,42926,46000
+339,Coronation Road,Pupuke Road,43043,46000
+340,Coronation Road,Birkenhead Avenue,43450,46000
+341,Coronation Road,Coroglen Avenue,43660,46000
+342,Coronation Road,Coroglen Avenue,43762,46000
+343,Coronation Road,Pupuke Road,44992,46000
+344,Coronation Road,Aorangi Place,45012,46000
+345,Coronation Road,Pupuke Road,45723,46000
+346,Coronation Road,Onewa Road,45868,46000
+347,Coronation Road,Northcote Primary School,46220,0
+348,Coronation Road,Onewa Road,46369,0
+349,Coronation Road,Aorangi Place,46553,0
+350,Coronation Road,Pupuke Road,46995,0
+351,Coronation Road,Aorangi Place,47514,0
+352,Coronation Road,Pupuke Road,48421,0
+353,Coronation Road,Bruce Street,48782,0
+354,Coronation Road,Fanshawe Street,49047,0
+355,Coronation Road,Fanshawe Street,49510,0
+356,Coronation Road,St Mary Catholic Church,49993,0
+357,Coronation Road,Birkenhead Avenue,50134,0
+358,Coronation Road,Aorangi Place,50342,0
+359,Coronation Road,Waratah Street,50418,0
+360,McDowell Crescent,Park Avenue,300,1500
+361,McDowell Crescent,Onewa Road,1237,1500
+362,McDowell Crescent,Waratah Street,1361,1500
+363,McDowell Crescent,Bruce Street,2373,6500
+364,McDowell Crescent,Fanshawe Street,2581,6500
+365,McDowell Crescent,Bruce Street,3400,6500
+366,McDowell Crescent,Onewa Road,3683,6500
+367,McDowell Crescent,Coroglen Avenue,3848,6500
+368,McDowell Crescent,Birkenhead Avenue,5181,6500
+369,McDowell Crescent,Bruce Street,5310,6500
+370,McDowell Crescent,Bruce Street,5696,6500
+371,McDowell Crescent,Park Avenue,6571,11500
+372,McDowell Crescent,Park Avenue,6943,11500
+373,McDowell Crescent,Northcote Primary School,6979,11500
+374,McDowell Crescent,Northcote Primary School,7274,11500
+375,McDowell Crescent,Birkenhead Avenue,7330,11500
+376,McDowell Crescent,Birkenhead Avenue,7469,11500
+377,McDowell Crescent,Onewa Road,7720,11500
+378,McDowell Crescent,St Mary Catholic Church,8337,11500
+379,McDowell Crescent,Pupuke Road,8727,11500
+380,McDowell Crescent,Bruce Street,9266,11500
+381,McDowell Crescent,Onewa Road,9832,11500
+382,McDowell Crescent,Aorangi Place,10568,11500
+383,McDowell Crescent,Coroglen Avenue,10812,11500
+384,McDowell Crescent,Bruce Street,10847,11500
+385,McDowell Crescent,Coroglen Avenue,10876,11500
+386,McDowell Crescent,Northcote Primary School,10949,11500
+387,McDowell Crescent,Park Avenue,11010,11500
+388,McDowell Crescent,Northcote Primary School,11326,11500
+389,McDowell Crescent,Pupuke Road,11370,11500
+390,McDowell Crescent,Birkenhead Avenue,11926,16500
+391,McDowell Crescent,Fanshawe Street,12239,16500
+392,McDowell Crescent,Bruce Street,12251,16500
+393,McDowell Crescent,Birkenhead Avenue,12334,16500
+394,McDowell Crescent,Fanshawe Street,12752,16500
+395,McDowell Crescent,Pupuke Road,13004,16500
+396,McDowell Crescent,Onewa Road,13329,16500
+397,McDowell Crescent,Pupuke Road,13440,16500
+398,McDowell Crescent,Aorangi Place,14174,16500
+399,McDowell Crescent,Onewa Road,14402,16500
+400,McDowell Crescent,Pupuke Road,14576,16500
+401,McDowell Crescent,Fanshawe Street,15213,16500
+402,McDowell Crescent,Birkenhead Avenue,15552,16500
+403,McDowell Crescent,Waratah Street,15600,16500
+404,McDowell Crescent,Onewa Road,16375,16500
+405,McDowell Crescent,Bruce Street,16460,16500
+406,McDowell Crescent,Bruce Street,16715,21500
+407,McDowell Crescent,Northcote Primary School,17859,21500
+408,McDowell Crescent,Bruce Street,18004,21500
+409,McDowell Crescent,Bruce Street,18141,21500
+410,McDowell Crescent,Aorangi Place,18146,21500
+411,McDowell Crescent,Aorangi Place,19179,21500
+412,McDowell Crescent,Waratah Street,19209,21500
+413,McDowell Crescent,Coroglen Avenue,19907,21500
+414,McDowell Crescent,Fanshawe Street,19928,21500
+415,McDowell Crescent,Waratah Street,20114,21500
+416,McDowell Crescent,Northcote Primary School,20433,21500
+417,McDowell Crescent,Coroglen Avenue,21426,21500
+418,McDowell Crescent,Waratah Street,21837,26500
+419,McDowell Crescent,Onewa Road,21878,26500
+420,McDowell Crescent,Bruce Street,22701,26500
+421,McDowell Crescent,Aorangi Place,22755,26500
+422,McDowell Crescent,Onewa Road,22788,26500
+423,McDowell Crescent,Park Avenue,23758,26500
+424,McDowell Crescent,Waratah Street,24250,26500
+425,McDowell Crescent,Coroglen Avenue,24605,26500
+426,McDowell Crescent,Northcote Primary School,25309,26500
+427,McDowell Crescent,Bruce Street,25314,26500
+428,McDowell Crescent,Birkenhead Avenue,25387,26500
+429,McDowell Crescent,Onewa Road,25528,26500
+430,McDowell Crescent,Park Avenue,25586,26500
+431,McDowell Crescent,Coroglen Avenue,25892,26500
+432,McDowell Crescent,Birkenhead Avenue,26072,26500
+433,McDowell Crescent,Waratah Street,28171,31500
+434,McDowell Crescent,Waratah Street,28216,31500
+435,McDowell Crescent,Pupuke Road,28710,31500
+436,McDowell Crescent,St Mary Catholic Church,28876,31500
+437,McDowell Crescent,Waratah Street,29465,31500
+438,McDowell Crescent,Fanshawe Street,29813,31500
+439,McDowell Crescent,Aorangi Place,29907,31500
+440,McDowell Crescent,Bruce Street,30179,31500
+441,McDowell Crescent,Bruce Street,30316,31500
+442,McDowell Crescent,Pupuke Road,30470,31500
+443,McDowell Crescent,Birkenhead Avenue,30652,31500
+444,McDowell Crescent,St Mary Catholic Church,30786,31500
+445,McDowell Crescent,Park Avenue,30989,31500
+446,McDowell Crescent,Northcote Primary School,31401,31500
+447,McDowell Crescent,Northcote Primary School,31486,31500
+448,McDowell Crescent,Onewa Road,31650,36500
+449,McDowell Crescent,St Mary Catholic Church,31893,36500
+450,McDowell Crescent,Birkenhead Avenue,32090,36500
+451,McDowell Crescent,Bruce Street,32277,36500
+452,McDowell Crescent,Bruce Street,32689,36500
+453,McDowell Crescent,Park Avenue,33105,36500
+454,McDowell Crescent,St Mary Catholic Church,33851,36500
+455,McDowell Crescent,Park Avenue,34217,36500
+456,McDowell Crescent,Birkenhead Avenue,34480,36500
+457,McDowell Crescent,Park Avenue,36030,36500
+458,McDowell Crescent,Fanshawe Street,36774,41500
+459,McDowell Crescent,St Mary Catholic Church,37543,41500
+460,McDowell Crescent,Onewa Road,37709,41500
+461,McDowell Crescent,Aorangi Place,39250,41500
+462,McDowell Crescent,Onewa Road,39332,41500
+463,McDowell Crescent,Birkenhead Avenue,39744,41500
+464,McDowell Crescent,Pupuke Road,40240,41500
+465,McDowell Crescent,St Mary Catholic Church,40570,41500
+466,McDowell Crescent,Northcote Primary School,41035,41500
+467,McDowell Crescent,Onewa Road,41213,41500
+468,McDowell Crescent,Birkenhead Avenue,41418,41500
+469,McDowell Crescent,Fanshawe Street,41423,41500
+470,McDowell Crescent,Birkenhead Avenue,41797,46500
+471,McDowell Crescent,Birkenhead Avenue,41879,46500
+472,McDowell Crescent,Coroglen Avenue,41992,46500
+473,McDowell Crescent,St Mary Catholic Church,42107,46500
+474,McDowell Crescent,St Mary Catholic Church,42456,46500
+475,McDowell Crescent,Coroglen Avenue,43627,46500
+476,McDowell Crescent,Pupuke Road,44173,46500
+477,McDowell Crescent,Coroglen Avenue,44390,46500
+478,McDowell Crescent,Waratah Street,44587,46500
+479,McDowell Crescent,Onewa Road,45216,46500
+480,Coroglen Avenue,St Mary Catholic Church,103,2000
+481,Coroglen Avenue,St Mary Catholic Church,111,2000
+482,Coroglen Avenue,Onewa Road,1306,2000
+483,Coroglen Avenue,Northcote Primary School,1444,2000
+484,Coroglen Avenue,Fanshawe Street,1918,2000
+485,Coroglen Avenue,Aorangi Place,2519,7000
+486,Coroglen Avenue,Waratah Street,2918,7000
+487,Coroglen Avenue,Park Avenue,3432,7000
+488,Coroglen Avenue,Birkenhead Avenue,3942,7000
+489,Coroglen Avenue,Birkenhead Avenue,4445,7000
+490,Coroglen Avenue,St Mary Catholic Church,4543,7000
+491,Coroglen Avenue,Northcote Primary School,5644,7000
+492,Coroglen Avenue,Birkenhead Avenue,6069,7000
+493,Coroglen Avenue,Bruce Street,6296,7000
+494,Coroglen Avenue,Waratah Street,6554,7000
+495,Coroglen Avenue,Waratah Street,6721,7000
+496,Coroglen Avenue,Waratah Street,8018,12000
+497,Coroglen Avenue,Birkenhead Avenue,8535,12000
+498,Coroglen Avenue,Birkenhead Avenue,8979,12000
+499,Coroglen Avenue,Fanshawe Street,9262,12000
+500,Coroglen Avenue,Fanshawe Street,9304,12000
+501,Coroglen Avenue,Onewa Road,9602,12000
+502,Coroglen Avenue,Fanshawe Street,9688,12000
+503,Coroglen Avenue,Bruce Street,9926,12000
+504,Coroglen Avenue,Northcote Primary School,10103,12000
+505,Coroglen Avenue,Aorangi Place,10131,12000
+506,Coroglen Avenue,Birkenhead Avenue,10256,12000
+507,Coroglen Avenue,Pupuke Road,10423,12000
+508,Coroglen Avenue,Fanshawe Street,10699,12000
+509,Coroglen Avenue,Bruce Street,10834,12000
+510,Coroglen Avenue,Waratah Street,11276,12000
+511,Coroglen Avenue,St Mary Catholic Church,11446,12000
+512,Coroglen Avenue,Onewa Road,11823,12000
+513,Coroglen Avenue,Birkenhead Avenue,13177,17000
+514,Coroglen Avenue,Pupuke Road,13925,17000
+515,Coroglen Avenue,Onewa Road,14223,17000
+516,Coroglen Avenue,Onewa Road,15423,17000
+517,Coroglen Avenue,Fanshawe Street,17549,22000
+518,Coroglen Avenue,St Mary Catholic Church,17757,22000
+519,Coroglen Avenue,Onewa Road,18465,22000
+520,Coroglen Avenue,Aorangi Place,18615,22000
+521,Coroglen Avenue,Waratah Street,18851,22000
+522,Coroglen Avenue,Bruce Street,19644,22000
+523,Coroglen Avenue,Fanshawe Street,20289,22000
+524,Coroglen Avenue,Bruce Street,20407,22000
+525,Coroglen Avenue,Bruce Street,21494,22000
+526,Coroglen Avenue,Pupuke Road,21757,22000
+527,Coroglen Avenue,Aorangi Place,22292,27000
+528,Coroglen Avenue,Bruce Street,24399,27000
+529,Coroglen Avenue,Fanshawe Street,24582,27000
+530,Coroglen Avenue,Bruce Street,24726,27000
+531,Coroglen Avenue,Waratah Street,24974,27000
+532,Coroglen Avenue,Bruce Street,25170,27000
+533,Coroglen Avenue,Fanshawe Street,25408,27000
+534,Coroglen Avenue,Bruce Street,25489,27000
+535,Coroglen Avenue,Aorangi Place,25696,27000
+536,Coroglen Avenue,Pupuke Road,25760,27000
+537,Coroglen Avenue,Birkenhead Avenue,27063,32000
+538,Coroglen Avenue,Onewa Road,27244,32000
+539,Coroglen Avenue,Fanshawe Street,28115,32000
+540,Coroglen Avenue,Aorangi Place,28564,32000
+541,Coroglen Avenue,Park Avenue,29065,32000
+542,Coroglen Avenue,Pupuke Road,29364,32000
+543,Coroglen Avenue,Park Avenue,29602,32000
+544,Coroglen Avenue,Birkenhead Avenue,29623,32000
+545,Coroglen Avenue,St Mary Catholic Church,29864,32000
+546,Coroglen Avenue,St Mary Catholic Church,29892,32000
+547,Coroglen Avenue,Aorangi Place,30079,32000
+548,Coroglen Avenue,Fanshawe Street,30524,32000
+549,Coroglen Avenue,Waratah Street,30608,32000
+550,Coroglen Avenue,Bruce Street,32151,37000
+551,Coroglen Avenue,Aorangi Place,32368,37000
+552,Coroglen Avenue,St Mary Catholic Church,32375,37000
+553,Coroglen Avenue,Pupuke Road,33476,37000
+554,Coroglen Avenue,Pupuke Road,33596,37000
+555,Coroglen Avenue,Pupuke Road,33675,37000
+556,Coroglen Avenue,Birkenhead Avenue,34491,37000
+557,Coroglen Avenue,Birkenhead Avenue,35827,37000
+558,Coroglen Avenue,Fanshawe Street,36111,37000
+559,Coroglen Avenue,Fanshawe Street,36246,37000
+560,Coroglen Avenue,Aorangi Place,36374,37000
+561,Coroglen Avenue,Birkenhead Avenue,37461,42000
+562,Coroglen Avenue,Northcote Primary School,37513,42000
+563,Coroglen Avenue,Aorangi Place,38240,42000
+564,Coroglen Avenue,Fanshawe Street,39059,42000
+565,Coroglen Avenue,Pupuke Road,39529,42000
+566,Coroglen Avenue,Pupuke Road,40983,42000
+567,Coroglen Avenue,Pupuke Road,41055,42000
+568,Coroglen Avenue,Waratah Street,41316,42000
+569,Coroglen Avenue,Waratah Street,41968,42000
+570,Coroglen Avenue,Park Avenue,41986,42000
+571,Coroglen Avenue,Pupuke Road,42868,47000
+572,Coroglen Avenue,Onewa Road,43629,47000
+573,Coroglen Avenue,Waratah Street,44180,47000
+574,Coroglen Avenue,Onewa Road,44802,47000
+575,Coroglen Avenue,St Mary Catholic Church,45304,47000
+576,Coroglen Avenue,Birkenhead Avenue,45668,47000
+577,Coroglen Avenue,Aorangi Place,46388,47000
+578,Coroglen Avenue,Onewa Road,46758,47000
+579,Coroglen Avenue,Waratah Street,46959,47000
+580,Coroglen Avenue,Onewa Road,48121,0
+581,Coroglen Avenue,Aorangi Place,49111,0
+582,Coroglen Avenue,St Mary Catholic Church,49494,0
+583,Coroglen Avenue,Onewa Road,49658,0
+584,Coroglen Avenue,Bruce Street,50063,0
+585,Coroglen Avenue,Northcote Primary School,50268,0
+586,Coroglen Avenue,St Mary Catholic Church,50529,0
+587,Coroglen Avenue,Northcote Primary School,50571,0
+588,Coroglen Avenue,Fanshawe Street,50895,0
+589,Coroglen Avenue,St Mary Catholic Church,50920,0
+590,Coroglen Avenue,Bruce Street,50926,0
+591,Coroglen Avenue,Northcote Primary School,51218,0
+592,Coroglen Avenue,Park Avenue,51587,0
+593,Coroglen Avenue,Bruce Street,51667,0
+594,Coroglen Avenue,Birkenhead Avenue,52776,0
+595,Coroglen Avenue,Onewa Road,53032,0
+596,Coroglen Avenue,Birkenhead Avenue,53083,0
+597,Coroglen Avenue,Park Avenue,53118,0
+598,Coroglen Avenue,Waratah Street,53717,0
+599,Coroglen Avenue,Birkenhead Avenue,53910,0
+600,Pupuke Road,Northcote Primary School,179,2500
+601,Pupuke Road,Bruce Street,189,2500
+602,Pupuke Road,Onewa Road,606,2500
+603,Pupuke Road,Bruce Street,656,2500
+604,Pupuke Road,Northcote Primary School,1019,2500
+605,Pupuke Road,Waratah Street,1050,2500
+606,Pupuke Road,Fanshawe Street,1267,2500
+607,Pupuke Road,Aorangi Place,1320,2500
+608,Pupuke Road,Birkenhead Avenue,2254,2500
+609,Pupuke Road,Waratah Street,2322,2500
+610,Pupuke Road,Fanshawe Street,2339,2500
+611,Pupuke Road,Aorangi Place,2434,2500
+612,Pupuke Road,Bruce Street,2501,7500
+613,Pupuke Road,Fanshawe Street,3254,7500
+614,Pupuke Road,Aorangi Place,3296,7500
+615,Pupuke Road,Northcote Primary School,3346,7500
+616,Pupuke Road,Waratah Street,3369,7500
+617,Pupuke Road,Bruce Street,3674,7500
+618,Pupuke Road,Aorangi Place,3771,7500
+619,Pupuke Road,Onewa Road,3777,7500
+620,Pupuke Road,Northcote Primary School,4129,7500
+621,Pupuke Road,Park Avenue,4668,7500
+622,Pupuke Road,Onewa Road,5266,7500
+623,Pupuke Road,Onewa Road,5433,7500
+624,Pupuke Road,Onewa Road,6087,7500
+625,Pupuke Road,Bruce Street,6216,7500
+626,Pupuke Road,Onewa Road,7110,7500
+627,Pupuke Road,St Mary Catholic Church,7862,12500
+628,Pupuke Road,Northcote Primary School,8307,12500
+629,Pupuke Road,Waratah Street,8469,12500
+630,Pupuke Road,Fanshawe Street,8785,12500
+631,Pupuke Road,Birkenhead Avenue,9769,12500
+632,Pupuke Road,Waratah Street,10292,12500
+633,Pupuke Road,Fanshawe Street,11062,12500
+634,Pupuke Road,Northcote Primary School,11336,12500
+635,Pupuke Road,St Mary Catholic Church,11680,12500
+636,Pupuke Road,Fanshawe Street,11883,12500
+637,Pupuke Road,Onewa Road,11932,12500
+638,Pupuke Road,Birkenhead Avenue,12250,12500
+639,Pupuke Road,Fanshawe Street,12539,17500
+640,Pupuke Road,Park Avenue,12619,17500
+641,Pupuke Road,Waratah Street,12772,17500
+642,Pupuke Road,Onewa Road,13366,17500
+643,Pupuke Road,Park Avenue,14739,17500
+644,Pupuke Road,Birkenhead Avenue,14924,17500
+645,Pupuke Road,St Mary Catholic Church,14945,17500
+646,Pupuke Road,St Mary Catholic Church,15681,17500
+647,Pupuke Road,Bruce Street,15733,17500
+648,Pupuke Road,Bruce Street,15767,17500
+649,Pupuke Road,St Mary Catholic Church,17088,17500
+650,Pupuke Road,Waratah Street,17328,17500
+651,Pupuke Road,Onewa Road,17457,17500
+652,Pupuke Road,Fanshawe Street,17520,22500
+653,Pupuke Road,Northcote Primary School,17540,22500
+654,Pupuke Road,Northcote Primary School,20103,22500
+655,Pupuke Road,Fanshawe Street,20321,22500
+656,Pupuke Road,Northcote Primary School,21176,22500
+657,Pupuke Road,Aorangi Place,21227,22500
+658,Pupuke Road,Northcote Primary School,22182,22500
+659,Pupuke Road,St Mary Catholic Church,22240,22500
+660,Pupuke Road,Waratah Street,22967,27500
+661,Pupuke Road,Waratah Street,22997,27500
+662,Pupuke Road,Bruce Street,23193,27500
+663,Pupuke Road,Onewa Road,23729,27500
+664,Pupuke Road,Birkenhead Avenue,24067,27500
+665,Pupuke Road,St Mary Catholic Church,24879,27500
+666,Pupuke Road,St Mary Catholic Church,25778,27500
+667,Pupuke Road,Northcote Primary School,26159,27500
+668,Pupuke Road,Park Avenue,26181,27500
+669,Pupuke Road,Onewa Road,26480,27500
+670,Pupuke Road,Fanshawe Street,26673,27500
+671,Pupuke Road,St Mary Catholic Church,28408,32500
+672,Pupuke Road,Park Avenue,28639,32500
+673,Pupuke Road,Fanshawe Street,28763,32500
+674,Pupuke Road,Birkenhead Avenue,28870,32500
+675,Pupuke Road,St Mary Catholic Church,28894,32500
+676,Pupuke Road,Northcote Primary School,29139,32500
+677,Pupuke Road,Birkenhead Avenue,30158,32500
+678,Pupuke Road,Northcote Primary School,31141,32500
+679,Pupuke Road,Northcote Primary School,31650,32500
+680,Pupuke Road,Onewa Road,31712,32500
+681,Pupuke Road,Onewa Road,32574,37500
+682,Pupuke Road,Waratah Street,33139,37500
+683,Pupuke Road,Bruce Street,33197,37500
+684,Pupuke Road,St Mary Catholic Church,33734,37500
+685,Pupuke Road,Fanshawe Street,33931,37500
+686,Pupuke Road,St Mary Catholic Church,34497,37500
+687,Pupuke Road,Northcote Primary School,34515,37500
+688,Pupuke Road,St Mary Catholic Church,34528,37500
+689,Pupuke Road,Waratah Street,34853,37500
+690,Pupuke Road,Bruce Street,34998,37500
+691,Pupuke Road,Birkenhead Avenue,35213,37500
+692,Pupuke Road,Aorangi Place,35542,37500
+693,Pupuke Road,Park Avenue,36206,37500
+694,Pupuke Road,Aorangi Place,37072,37500
+695,Pupuke Road,Onewa Road,37547,42500
+696,Pupuke Road,Park Avenue,38048,42500
+697,Pupuke Road,Fanshawe Street,38313,42500
+698,Pupuke Road,Bruce Street,38480,42500
+699,Pupuke Road,Fanshawe Street,38725,42500
+700,Pupuke Road,Waratah Street,38906,42500
+701,Pupuke Road,Waratah Street,38991,42500
+702,Pupuke Road,Aorangi Place,39585,42500
+703,Pupuke Road,Onewa Road,39712,42500
+704,Pupuke Road,Waratah Street,39754,42500
+705,Pupuke Road,Waratah Street,39766,42500
+706,Pupuke Road,Northcote Primary School,40199,42500
+707,Pupuke Road,Park Avenue,40805,42500
+708,Pupuke Road,Northcote Primary School,41244,42500
+709,Pupuke Road,Onewa Road,42706,47500
+710,Pupuke Road,Aorangi Place,42911,47500
+711,Pupuke Road,Aorangi Place,42950,47500
+712,Pupuke Road,Bruce Street,43165,47500
+713,Pupuke Road,Aorangi Place,43612,47500
+714,Pupuke Road,Aorangi Place,43787,47500
+715,Pupuke Road,St Mary Catholic Church,44174,47500
+716,Pupuke Road,Fanshawe Street,45017,47500
+717,Pupuke Road,Aorangi Place,45434,47500
+718,Pupuke Road,Park Avenue,45777,47500
+719,Pupuke Road,Northcote Primary School,45814,47500
+720,Waratah Street,Fanshawe Street,255,3000
+721,Waratah Street,Fanshawe Street,986,3000
+722,Waratah Street,Onewa Road,1254,3000
+723,Waratah Street,Fanshawe Street,1791,3000
+724,Waratah Street,Aorangi Place,1911,3000
+725,Waratah Street,Fanshawe Street,2262,3000
+726,Waratah Street,Aorangi Place,2973,3000
+727,Waratah Street,Aorangi Place,3155,8000
+728,Waratah Street,Birkenhead Avenue,3762,8000
+729,Waratah Street,Northcote Primary School,4368,8000
+730,Waratah Street,Onewa Road,4525,8000
+731,Waratah Street,Fanshawe Street,4723,8000
+732,Waratah Street,Park Avenue,4978,8000
+733,Waratah Street,Park Avenue,5047,8000
+734,Waratah Street,Aorangi Place,5138,8000
+735,Waratah Street,Bruce Street,5314,8000
+736,Waratah Street,Birkenhead Avenue,5704,8000
+737,Waratah Street,Bruce Street,5859,8000
+738,Waratah Street,Birkenhead Avenue,6355,8000
+739,Waratah Street,Aorangi Place,7010,8000
+740,Waratah Street,Birkenhead Avenue,7517,8000
+741,Waratah Street,Birkenhead Avenue,7577,8000
+742,Waratah Street,St Mary Catholic Church,8369,13000
+743,Waratah Street,Aorangi Place,8506,13000
+744,Waratah Street,Park Avenue,8959,13000
+745,Waratah Street,St Mary Catholic Church,9120,13000
+746,Waratah Street,Bruce Street,9383,13000
+747,Waratah Street,Fanshawe Street,9513,13000
+748,Waratah Street,Park Avenue,9875,13000
+749,Waratah Street,Bruce Street,10300,13000
+750,Waratah Street,Bruce Street,10558,13000
+751,Waratah Street,Park Avenue,11271,13000
+752,Waratah Street,Park Avenue,11296,13000
+753,Waratah Street,St Mary Catholic Church,11298,13000
+754,Waratah Street,Birkenhead Avenue,11551,13000
+755,Waratah Street,Northcote Primary School,11604,13000
+756,Waratah Street,St Mary Catholic Church,11965,13000
+757,Waratah Street,Birkenhead Avenue,12396,13000
+758,Waratah Street,Aorangi Place,12426,13000
+759,Waratah Street,Northcote Primary School,12992,13000
+760,Waratah Street,Aorangi Place,13142,18000
+761,Waratah Street,Fanshawe Street,13169,18000
+762,Waratah Street,Bruce Street,13489,18000
+763,Waratah Street,Park Avenue,13536,18000
+764,Waratah Street,Bruce Street,13598,18000
+765,Waratah Street,Northcote Primary School,13605,18000
+766,Waratah Street,Birkenhead Avenue,13931,18000
+767,Waratah Street,Birkenhead Avenue,16038,18000
+768,Waratah Street,Onewa Road,16266,18000
+769,Waratah Street,Aorangi Place,16497,18000
+770,Waratah Street,Park Avenue,17018,18000
+771,Waratah Street,Birkenhead Avenue,17523,18000
+772,Waratah Street,Onewa Road,17622,18000
+773,Waratah Street,Park Avenue,18278,23000
+774,Waratah Street,Bruce Street,18404,23000
+775,Waratah Street,St Mary Catholic Church,18938,23000
+776,Waratah Street,Northcote Primary School,18986,23000
+777,Waratah Street,Bruce Street,19320,23000
+778,Waratah Street,Northcote Primary School,19903,23000
+779,Waratah Street,Onewa Road,20461,23000
+780,Waratah Street,Park Avenue,20679,23000
+781,Waratah Street,St Mary Catholic Church,20732,23000
+782,Waratah Street,Onewa Road,21308,23000
+783,Waratah Street,Park Avenue,22204,23000
+784,Waratah Street,St Mary Catholic Church,22322,23000
+785,Waratah Street,Birkenhead Avenue,22777,23000
+786,Waratah Street,Northcote Primary School,22834,23000
+787,Waratah Street,Onewa Road,23044,28000
+788,Waratah Street,Park Avenue,23615,28000
+789,Waratah Street,Park Avenue,23637,28000
+790,Waratah Street,Fanshawe Street,24275,28000
+791,Waratah Street,Fanshawe Street,24966,28000
+792,Waratah Street,Aorangi Place,25334,28000
+793,Waratah Street,Northcote Primary School,26784,28000
+794,Waratah Street,Bruce Street,27008,28000
+795,Waratah Street,Northcote Primary School,27437,28000
+796,Waratah Street,Aorangi Place,27476,28000
+797,Waratah Street,Aorangi Place,28370,33000
+798,Waratah Street,Park Avenue,28427,33000
+799,Waratah Street,Birkenhead Avenue,28468,33000
+800,Waratah Street,Bruce Street,29630,33000
+801,Waratah Street,Fanshawe Street,30558,33000
+802,Waratah Street,Northcote Primary School,30596,33000
+803,Waratah Street,Bruce Street,30947,33000
+804,Waratah Street,Onewa Road,31796,33000
+805,Waratah Street,Aorangi Place,31797,33000
+806,Waratah Street,Bruce Street,33123,38000
+807,Waratah Street,Birkenhead Avenue,34153,38000
+808,Waratah Street,St Mary Catholic Church,34295,38000
+809,Waratah Street,Fanshawe Street,35089,38000
+810,Waratah Street,St Mary Catholic Church,35167,38000
+811,Waratah Street,Park Avenue,35733,38000
+812,Waratah Street,Park Avenue,35876,38000
+813,Waratah Street,Northcote Primary School,36025,38000
+814,Waratah Street,Birkenhead Avenue,36303,38000
+815,Waratah Street,Aorangi Place,36473,38000
+816,Waratah Street,St Mary Catholic Church,36904,38000
+817,Waratah Street,Bruce Street,37051,38000
+818,Waratah Street,Northcote Primary School,37904,38000
+819,Waratah Street,Bruce Street,38423,43000
+820,Waratah Street,Fanshawe Street,38656,43000
+821,Waratah Street,St Mary Catholic Church,39217,43000
+822,Waratah Street,St Mary Catholic Church,39275,43000
+823,Waratah Street,Birkenhead Avenue,39772,43000
+824,Waratah Street,Birkenhead Avenue,40103,43000
+825,Waratah Street,Onewa Road,40146,43000
+826,Waratah Street,Onewa Road,40356,43000
+827,Waratah Street,Bruce Street,40565,43000
+828,Waratah Street,Fanshawe Street,40578,43000
+829,Waratah Street,Aorangi Place,41395,43000
+830,Waratah Street,Fanshawe Street,41540,43000
+831,Waratah Street,Northcote Primary School,42463,43000
+832,Waratah Street,Birkenhead Avenue,43668,48000
+833,Waratah Street,Northcote Primary School,44033,48000
+834,Waratah Street,Aorangi Place,45171,48000
+835,Waratah Street,Aorangi Place,45200,48000
+836,Waratah Street,Fanshawe Street,46524,48000
+837,Waratah Street,Birkenhead Avenue,46897,48000
+838,Waratah Street,Aorangi Place,47648,48000
+839,Waratah Street,Northcote Primary School,48063,0
+840,Birkenhead Avenue,Fanshawe Street,728,3500
+841,Birkenhead Avenue,St Mary Catholic Church,789,3500
+842,Birkenhead Avenue,Bruce Street,865,3500
+843,Birkenhead Avenue,Bruce Street,1186,3500
+844,Birkenhead Avenue,St Mary Catholic Church,1513,3500
+845,Birkenhead Avenue,Fanshawe Street,1540,3500
+846,Birkenhead Avenue,Bruce Street,1818,3500
+847,Birkenhead Avenue,Fanshawe Street,2140,3500
+848,Birkenhead Avenue,Bruce Street,2301,3500
+849,Birkenhead Avenue,St Mary Catholic Church,2758,3500
+850,Birkenhead Avenue,Onewa Road,3092,3500
+851,Birkenhead Avenue,Northcote Primary School,4709,8500
+852,Birkenhead Avenue,Fanshawe Street,5328,8500
+853,Birkenhead Avenue,Bruce Street,5511,8500
+854,Birkenhead Avenue,Aorangi Place,6295,8500
+855,Birkenhead Avenue,Fanshawe Street,6969,8500
+856,Birkenhead Avenue,Fanshawe Street,8159,8500
+857,Birkenhead Avenue,Bruce Street,8615,13500
+858,Birkenhead Avenue,St Mary Catholic Church,8757,13500
+859,Birkenhead Avenue,Fanshawe Street,9112,13500
+860,Birkenhead Avenue,Park Avenue,9266,13500
+861,Birkenhead Avenue,Onewa Road,9890,13500
+862,Birkenhead Avenue,Fanshawe Street,10429,13500
+863,Birkenhead Avenue,Park Avenue,11198,13500
+864,Birkenhead Avenue,Aorangi Place,12229,13500
+865,Birkenhead Avenue,St Mary Catholic Church,12409,13500
+866,Birkenhead Avenue,Northcote Primary School,12933,13500
+867,Birkenhead Avenue,Onewa Road,13619,18500
+868,Birkenhead Avenue,Bruce Street,13765,18500
+869,Birkenhead Avenue,Aorangi Place,14049,18500
+870,Birkenhead Avenue,Aorangi Place,14084,18500
+871,Birkenhead Avenue,Onewa Road,14530,18500
+872,Birkenhead Avenue,Aorangi Place,14874,18500
+873,Birkenhead Avenue,St Mary Catholic Church,15238,18500
+874,Birkenhead Avenue,Fanshawe Street,15598,18500
+875,Birkenhead Avenue,Onewa Road,16504,18500
+876,Birkenhead Avenue,Aorangi Place,16746,18500
+877,Birkenhead Avenue,St Mary Catholic Church,17043,18500
+878,Birkenhead Avenue,Onewa Road,17358,18500
+879,Birkenhead Avenue,Fanshawe Street,17826,18500
+880,Birkenhead Avenue,Onewa Road,17962,18500
+881,Birkenhead Avenue,St Mary Catholic Church,18630,23500
+882,Birkenhead Avenue,Onewa Road,19815,23500
+883,Birkenhead Avenue,Northcote Primary School,20134,23500
+884,Birkenhead Avenue,St Mary Catholic Church,20240,23500
+885,Birkenhead Avenue,Onewa Road,20360,23500
+886,Birkenhead Avenue,Aorangi Place,20397,23500
+887,Birkenhead Avenue,Fanshawe Street,20873,23500
+888,Birkenhead Avenue,Northcote Primary School,20970,23500
+889,Birkenhead Avenue,Park Avenue,21222,23500
+890,Birkenhead Avenue,St Mary Catholic Church,21833,23500
+891,Birkenhead Avenue,Park Avenue,21847,23500
+892,Birkenhead Avenue,St Mary Catholic Church,22646,23500
+893,Birkenhead Avenue,Northcote Primary School,22725,23500
+894,Birkenhead Avenue,Park Avenue,22827,23500
+895,Birkenhead Avenue,Aorangi Place,23625,28500
+896,Birkenhead Avenue,Bruce Street,25256,28500
+897,Birkenhead Avenue,Onewa Road,25481,28500
+898,Birkenhead Avenue,Onewa Road,25647,28500
+899,Birkenhead Avenue,Fanshawe Street,25809,28500
+900,Birkenhead Avenue,Bruce Street,26870,28500
+901,Birkenhead Avenue,Park Avenue,27181,28500
+902,Birkenhead Avenue,Park Avenue,27308,28500
+903,Birkenhead Avenue,Onewa Road,27675,28500
+904,Birkenhead Avenue,Park Avenue,27857,28500
+905,Birkenhead Avenue,Bruce Street,27995,28500
+906,Birkenhead Avenue,Fanshawe Street,29134,33500
+907,Birkenhead Avenue,Northcote Primary School,29253,33500
+908,Birkenhead Avenue,Onewa Road,29340,33500
+909,Birkenhead Avenue,St Mary Catholic Church,29826,33500
+910,Birkenhead Avenue,Park Avenue,29845,33500
+911,Birkenhead Avenue,Fanshawe Street,30508,33500
+912,Birkenhead Avenue,Aorangi Place,30540,33500
+913,Birkenhead Avenue,Aorangi Place,30977,33500
+914,Birkenhead Avenue,Bruce Street,31086,33500
+915,Birkenhead Avenue,St Mary Catholic Church,31914,33500
+916,Birkenhead Avenue,Park Avenue,33141,33500
+917,Birkenhead Avenue,Bruce Street,33144,33500
+918,Birkenhead Avenue,Park Avenue,33586,38500
+919,Birkenhead Avenue,Aorangi Place,33815,38500
+920,Birkenhead Avenue,Bruce Street,34458,38500
+921,Birkenhead Avenue,Park Avenue,34789,38500
+922,Birkenhead Avenue,Fanshawe Street,34810,38500
+923,Birkenhead Avenue,Park Avenue,35881,38500
+924,Birkenhead Avenue,Park Avenue,36950,38500
+925,Birkenhead Avenue,Fanshawe Street,37553,38500
+926,Birkenhead Avenue,Aorangi Place,37668,38500
+927,Birkenhead Avenue,St Mary Catholic Church,37713,38500
+928,Birkenhead Avenue,Onewa Road,37771,38500
+929,Birkenhead Avenue,Aorangi Place,38768,43500
+930,Birkenhead Avenue,Bruce Street,38835,43500
+931,Birkenhead Avenue,Aorangi Place,39735,43500
+932,Birkenhead Avenue,Park Avenue,41132,43500
+933,Birkenhead Avenue,Fanshawe Street,42593,43500
+934,Birkenhead Avenue,Northcote Primary School,42987,43500
+935,Birkenhead Avenue,Fanshawe Street,43304,43500
+936,Birkenhead Avenue,Park Avenue,43337,43500
+937,Birkenhead Avenue,Park Avenue,43505,48500
+938,Birkenhead Avenue,Aorangi Place,43561,48500
+939,Birkenhead Avenue,Park Avenue,43638,48500
+940,Birkenhead Avenue,Fanshawe Street,43918,48500
+941,Birkenhead Avenue,Northcote Primary School,44596,48500
+942,Birkenhead Avenue,St Mary Catholic Church,45062,48500
+943,Birkenhead Avenue,Park Avenue,45086,48500
+944,Birkenhead Avenue,Park Avenue,45714,48500
+945,Birkenhead Avenue,St Mary Catholic Church,46880,48500
+946,Birkenhead Avenue,Bruce Street,46997,48500
+947,Birkenhead Avenue,Northcote Primary School,47385,48500
+948,Birkenhead Avenue,Park Avenue,47887,48500
+949,Birkenhead Avenue,Northcote Primary School,48500,48500
+950,Birkenhead Avenue,St Mary Catholic Church,48536,0
+951,Birkenhead Avenue,Fanshawe Street,49289,0
+952,Birkenhead Avenue,Park Avenue,49341,0
+953,Birkenhead Avenue,Bruce Street,49498,0
+954,Birkenhead Avenue,Onewa Road,49713,0
+955,Birkenhead Avenue,Northcote Primary School,51776,0
+956,Birkenhead Avenue,St Mary Catholic Church,51926,0
+957,Birkenhead Avenue,Fanshawe Street,51927,0
+958,Birkenhead Avenue,Park Avenue,52347,0
+959,Birkenhead Avenue,Aorangi Place,52688,0
+960,Aorangi Place,Northcote Primary School,468,4000
+961,Aorangi Place,St Mary Catholic Church,566,4000
+962,Aorangi Place,Bruce Street,809,4000
+963,Aorangi Place,St Mary Catholic Church,856,4000
+964,Aorangi Place,St Mary Catholic Church,940,4000
+965,Aorangi Place,Onewa Road,1644,4000
+966,Aorangi Place,Onewa Road,2386,4000
+967,Aorangi Place,Northcote Primary School,2556,4000
+968,Aorangi Place,Fanshawe Street,2722,4000
+969,Aorangi Place,Northcote Primary School,2875,4000
+970,Aorangi Place,Bruce Street,3096,4000
+971,Aorangi Place,St Mary Catholic Church,4112,9000
+972,Aorangi Place,Northcote Primary School,4598,9000
+973,Aorangi Place,Fanshawe Street,4755,9000
+974,Aorangi Place,Onewa Road,4842,9000
+975,Aorangi Place,Park Avenue,5142,9000
+976,Aorangi Place,Bruce Street,5555,9000
+977,Aorangi Place,Fanshawe Street,5648,9000
+978,Aorangi Place,Bruce Street,6360,9000
+979,Aorangi Place,Fanshawe Street,7123,9000
+980,Aorangi Place,Onewa Road,7150,9000
+981,Aorangi Place,St Mary Catholic Church,7857,9000
+982,Aorangi Place,Bruce Street,7945,9000
+983,Aorangi Place,Park Avenue,8400,9000
+984,Aorangi Place,Park Avenue,10465,14000
+985,Aorangi Place,Northcote Primary School,10616,14000
+986,Aorangi Place,Onewa Road,11244,14000
+987,Aorangi Place,Onewa Road,12545,14000
+988,Aorangi Place,Onewa Road,12611,14000
+989,Aorangi Place,Park Avenue,12742,14000
+990,Aorangi Place,St Mary Catholic Church,12844,14000
+991,Aorangi Place,Northcote Primary School,12928,14000
+992,Aorangi Place,Park Avenue,13336,14000
+993,Aorangi Place,Park Avenue,13471,14000
+994,Aorangi Place,Northcote Primary School,13652,14000
+995,Aorangi Place,Fanshawe Street,13670,14000
+996,Aorangi Place,Fanshawe Street,14183,19000
+997,Aorangi Place,Onewa Road,14419,19000
+998,Aorangi Place,Northcote Primary School,14477,19000
+999,Aorangi Place,Bruce Street,14747,19000
+1000,Aorangi Place,Fanshawe Street,15306,19000
+1001,Aorangi Place,Park Avenue,15594,19000
+1002,Aorangi Place,Onewa Road,15893,19000
+1003,Aorangi Place,Bruce Street,16083,19000
+1004,Aorangi Place,St Mary Catholic Church,16444,19000
+1005,Aorangi Place,Northcote Primary School,16468,19000
+1006,Aorangi Place,Park Avenue,16911,19000
+1007,Aorangi Place,Park Avenue,17357,19000
+1008,Aorangi Place,Northcote Primary School,17495,19000
+1009,Aorangi Place,Bruce Street,17784,19000
+1010,Aorangi Place,Northcote Primary School,18994,19000
+1011,Aorangi Place,Park Avenue,19679,24000
+1012,Aorangi Place,Onewa Road,20080,24000
+1013,Aorangi Place,Northcote Primary School,20697,24000
+1014,Aorangi Place,Fanshawe Street,20903,24000
+1015,Aorangi Place,Fanshawe Street,20906,24000
+1016,Aorangi Place,Northcote Primary School,21939,24000
+1017,Aorangi Place,Onewa Road,22068,24000
+1018,Aorangi Place,Northcote Primary School,22656,24000
+1019,Aorangi Place,St Mary Catholic Church,22876,24000
+1020,Aorangi Place,Bruce Street,23307,24000
+1021,Aorangi Place,Onewa Road,23577,24000
+1022,Aorangi Place,Park Avenue,23711,24000
+1023,Aorangi Place,Bruce Street,24002,29000
+1024,Aorangi Place,Park Avenue,24224,29000
+1025,Aorangi Place,St Mary Catholic Church,24621,29000
+1026,Aorangi Place,Northcote Primary School,25308,29000
+1027,Aorangi Place,St Mary Catholic Church,25818,29000
+1028,Aorangi Place,Bruce Street,25914,29000
+1029,Aorangi Place,Fanshawe Street,26192,29000
+1030,Aorangi Place,Fanshawe Street,26787,29000
+1031,Aorangi Place,Northcote Primary School,28584,29000
+1032,Aorangi Place,Fanshawe Street,29943,34000
+1033,Aorangi Place,Park Avenue,30249,34000
+1034,Aorangi Place,Onewa Road,30286,34000
+1035,Aorangi Place,Park Avenue,30681,34000
+1036,Aorangi Place,Onewa Road,31425,34000
+1037,Aorangi Place,Fanshawe Street,31455,34000
+1038,Aorangi Place,Northcote Primary School,31693,34000
+1039,Aorangi Place,Fanshawe Street,32586,34000
+1040,Aorangi Place,Bruce Street,32902,34000
+1041,Aorangi Place,St Mary Catholic Church,33073,34000
+1042,Aorangi Place,Bruce Street,33315,34000
+1043,Aorangi Place,St Mary Catholic Church,33984,34000
+1044,Aorangi Place,Onewa Road,34064,39000
+1045,Aorangi Place,Park Avenue,34289,39000
+1046,Aorangi Place,Park Avenue,34456,39000
+1047,Aorangi Place,Northcote Primary School,34560,39000
+1048,Aorangi Place,Park Avenue,34871,39000
+1049,Aorangi Place,Fanshawe Street,34966,39000
+1050,Aorangi Place,Fanshawe Street,36137,39000
+1051,Aorangi Place,Northcote Primary School,37047,39000
+1052,Aorangi Place,Onewa Road,37341,39000
+1053,Aorangi Place,St Mary Catholic Church,37677,39000
+1054,Aorangi Place,Onewa Road,38393,39000
+1055,Aorangi Place,Fanshawe Street,38549,39000
+1056,Aorangi Place,Onewa Road,38818,39000
+1057,Aorangi Place,Northcote Primary School,39545,44000
+1058,Aorangi Place,Fanshawe Street,40428,44000
+1059,Aorangi Place,Park Avenue,40757,44000
+1060,Aorangi Place,Onewa Road,40785,44000
+1061,Aorangi Place,Fanshawe Street,41002,44000
+1062,Aorangi Place,Northcote Primary School,41055,44000
+1063,Aorangi Place,Onewa Road,41300,44000
+1064,Aorangi Place,Bruce Street,41345,44000
+1065,Aorangi Place,Northcote Primary School,42563,44000
+1066,Aorangi Place,Bruce Street,44237,49000
+1067,Aorangi Place,Northcote Primary School,44838,49000
+1068,Aorangi Place,Northcote Primary School,45594,49000
+1069,Aorangi Place,St Mary Catholic Church,45804,49000
+1070,Aorangi Place,St Mary Catholic Church,46199,49000
+1071,Aorangi Place,Northcote Primary School,46516,49000
+1072,Aorangi Place,Onewa Road,46624,49000
+1073,Aorangi Place,Fanshawe Street,46981,49000
+1074,Aorangi Place,Park Avenue,47466,49000
+1075,Aorangi Place,Fanshawe Street,47758,49000
+1076,Aorangi Place,Bruce Street,47766,49000
+1077,Aorangi Place,Fanshawe Street,47916,49000
+1078,Aorangi Place,St Mary Catholic Church,47946,49000
+1079,Aorangi Place,Fanshawe Street,48014,49000
+1080,Park Avenue,Onewa Road,185,4500
+1081,Park Avenue,Northcote Primary School,745,4500
+1082,Park Avenue,Onewa Road,962,4500
+1083,Park Avenue,Onewa Road,965,4500
+1084,Park Avenue,St Mary Catholic Church,1035,4500
+1085,Park Avenue,Onewa Road,1351,4500
+1086,Park Avenue,St Mary Catholic Church,1419,4500
+1087,Park Avenue,Fanshawe Street,1695,4500
+1088,Park Avenue,St Mary Catholic Church,2680,4500
+1089,Park Avenue,Fanshawe Street,3619,4500
+1090,Park Avenue,Fanshawe Street,4043,4500
+1091,Park Avenue,Bruce Street,5156,9500
+1092,Park Avenue,Onewa Road,5386,9500
+1093,Park Avenue,Onewa Road,5419,9500
+1094,Park Avenue,Fanshawe Street,5562,9500
+1095,Park Avenue,Fanshawe Street,5742,9500
+1096,Park Avenue,Bruce Street,5937,9500
+1097,Park Avenue,Northcote Primary School,8274,9500
+1098,Park Avenue,St Mary Catholic Church,8336,9500
+1099,Park Avenue,Onewa Road,8567,9500
+1100,Park Avenue,St Mary Catholic Church,8893,9500
+1101,Park Avenue,Bruce Street,9007,9500
+1102,Park Avenue,Northcote Primary School,9203,9500
+1103,Park Avenue,Fanshawe Street,9626,14500
+1104,Park Avenue,Onewa Road,9733,14500
+1105,Park Avenue,Northcote Primary School,9827,14500
+1106,Park Avenue,St Mary Catholic Church,9975,14500
+1107,Park Avenue,Bruce Street,10543,14500
+1108,Park Avenue,Northcote Primary School,10795,14500
+1109,Park Avenue,Onewa Road,10796,14500
+1110,Park Avenue,Fanshawe Street,11125,14500
+1111,Park Avenue,Bruce Street,11349,14500
+1112,Park Avenue,St Mary Catholic Church,13730,14500
+1113,Park Avenue,Bruce Street,13933,14500
+1114,Park Avenue,Bruce Street,14013,14500
+1115,Park Avenue,Northcote Primary School,14235,14500
+1116,Park Avenue,Northcote Primary School,14981,19500
+1117,Park Avenue,Northcote Primary School,15277,19500
+1118,Park Avenue,Fanshawe Street,15718,19500
+1119,Park Avenue,Fanshawe Street,16255,19500
+1120,Park Avenue,Northcote Primary School,16814,19500
+1121,Park Avenue,Bruce Street,17357,19500
+1122,Park Avenue,Bruce Street,17675,19500
+1123,Park Avenue,Fanshawe Street,17780,19500
+1124,Park Avenue,St Mary Catholic Church,18041,19500
+1125,Park Avenue,Northcote Primary School,18531,19500
+1126,Park Avenue,Onewa Road,18539,19500
+1127,Park Avenue,Bruce Street,18901,19500
+1128,Park Avenue,St Mary Catholic Church,19759,24500
+1129,Park Avenue,St Mary Catholic Church,21462,24500
+1130,Park Avenue,Northcote Primary School,21997,24500
+1131,Park Avenue,Bruce Street,22203,24500
+1132,Park Avenue,Fanshawe Street,22356,24500
+1133,Park Avenue,St Mary Catholic Church,22533,24500
+1134,Park Avenue,St Mary Catholic Church,23022,24500
+1135,Park Avenue,St Mary Catholic Church,23498,24500
+1136,Park Avenue,Bruce Street,23535,24500
+1137,Park Avenue,Northcote Primary School,24060,24500
+1138,Park Avenue,Onewa Road,24638,29500
+1139,Park Avenue,Bruce Street,26142,29500
+1140,Park Avenue,Fanshawe Street,26338,29500
+1141,Park Avenue,Onewa Road,26363,29500
+1142,Park Avenue,Onewa Road,26621,29500
+1143,Park Avenue,Northcote Primary School,27087,29500
+1144,Park Avenue,Northcote Primary School,28303,29500
+1145,Park Avenue,St Mary Catholic Church,29259,29500
+1146,Park Avenue,Northcote Primary School,29378,29500
+1147,Park Avenue,Northcote Primary School,31021,34500
+1148,Park Avenue,Onewa Road,31216,34500
+1149,Park Avenue,Onewa Road,31293,34500
+1150,Park Avenue,Fanshawe Street,31558,34500
+1151,Park Avenue,St Mary Catholic Church,32290,34500
+1152,Park Avenue,Fanshawe Street,32366,34500
+1153,Park Avenue,St Mary Catholic Church,32606,34500
+1154,Park Avenue,Bruce Street,32754,34500
+1155,Park Avenue,Fanshawe Street,34210,34500
+1156,Park Avenue,St Mary Catholic Church,34520,39500
+1157,Park Avenue,Northcote Primary School,34965,39500
+1158,Park Avenue,Bruce Street,35040,39500
+1159,Park Avenue,Fanshawe Street,35810,39500
+1160,Park Avenue,Onewa Road,35993,39500
+1161,Park Avenue,Onewa Road,36816,39500
+1162,Park Avenue,Bruce Street,37405,39500
+1163,Park Avenue,St Mary Catholic Church,39129,39500
+1164,Park Avenue,Bruce Street,39158,39500
+1165,Park Avenue,Northcote Primary School,39237,39500
+1166,Park Avenue,Northcote Primary School,39852,44500
+1167,Park Avenue,Onewa Road,39890,44500
+1168,Park Avenue,St Mary Catholic Church,40853,44500
+1169,Park Avenue,Northcote Primary School,40963,44500
+1170,Park Avenue,Onewa Road,41196,44500
+1171,Park Avenue,Northcote Primary School,42097,44500
+1172,Park Avenue,Northcote Primary School,42133,44500
+1173,Park Avenue,Northcote Primary School,42318,44500
+1174,Park Avenue,Onewa Road,43881,44500
+1175,Park Avenue,Onewa Road,43894,44500
+1176,Park Avenue,St Mary Catholic Church,43982,44500
+1177,Park Avenue,Bruce Street,45124,49500
+1178,Park Avenue,St Mary Catholic Church,45563,49500
+1179,Park Avenue,Fanshawe Street,46147,49500
+1180,Park Avenue,Northcote Primary School,47107,49500
+1181,Park Avenue,Fanshawe Street,47553,49500
+1182,Park Avenue,Fanshawe Street,47719,49500
+1183,Park Avenue,Fanshawe Street,47822,49500
+1184,Park Avenue,Bruce Street,49015,49500
+1185,Park Avenue,Onewa Road,50264,0
+1186,Park Avenue,Northcote Primary School,51069,0
+1187,Park Avenue,Fanshawe Street,51172,0
+1188,Park Avenue,Fanshawe Street,51230,0
+1189,Park Avenue,Onewa Road,51365,0
+1190,Park Avenue,Fanshawe Street,51802,0
+1191,Park Avenue,Fanshawe Street,52362,0
+1192,Park Avenue,Fanshawe Street,53106,0
+1193,Park Avenue,St Mary Catholic Church,53197,0
+1194,Park Avenue,Onewa Road,53380,0
+1195,Park Avenue,Bruce Street,53446,0
+1196,Park Avenue,Northcote Primary School,53665,0
+1197,Park Avenue,St Mary Catholic Church,54352,0
+1198,Park Avenue,Fanshawe Street,54748,0
+1199,Park Avenue,Fanshawe Street,54881,0
+1200,Onewa Road,St Mary Catholic Church,262,5000
+1201,Onewa Road,Bruce Street,1089,5000
+1202,Onewa Road,Fanshawe Street,1218,5000
+1203,Onewa Road,St Mary Catholic Church,1385,5000
+1204,Onewa Road,Northcote Primary School,1399,5000
+1205,Onewa Road,Bruce Street,1815,5000
+1206,Onewa Road,Fanshawe Street,1884,5000
+1207,Onewa Road,St Mary Catholic Church,3150,5000
+1208,Onewa Road,Bruce Street,3732,5000
+1209,Onewa Road,Northcote Primary School,4342,5000
+1210,Onewa Road,Fanshawe Street,4713,5000
+1211,Onewa Road,Northcote Primary School,4767,5000
+1212,Onewa Road,Northcote Primary School,4962,5000
+1213,Onewa Road,Fanshawe Street,5250,10000
+1214,Onewa Road,St Mary Catholic Church,5415,10000
+1215,Onewa Road,Bruce Street,5536,10000
+1216,Onewa Road,Northcote Primary School,5563,10000
+1217,Onewa Road,Northcote Primary School,5687,10000
+1218,Onewa Road,Fanshawe Street,5762,10000
+1219,Onewa Road,Northcote Primary School,6010,10000
+1220,Onewa Road,Bruce Street,7041,10000
+1221,Onewa Road,Fanshawe Street,7103,10000
+1222,Onewa Road,St Mary Catholic Church,7525,10000
+1223,Onewa Road,Fanshawe Street,7559,10000
+1224,Onewa Road,Fanshawe Street,7912,10000
+1225,Onewa Road,Fanshawe Street,8339,10000
+1226,Onewa Road,Northcote Primary School,8556,10000
+1227,Onewa Road,Bruce Street,9000,10000
+1228,Onewa Road,Bruce Street,10140,15000
+1229,Onewa Road,Bruce Street,10693,15000
+1230,Onewa Road,St Mary Catholic Church,10766,15000
+1231,Onewa Road,St Mary Catholic Church,11069,15000
+1232,Onewa Road,Fanshawe Street,11178,15000
+1233,Onewa Road,Northcote Primary School,11373,15000
+1234,Onewa Road,St Mary Catholic Church,11719,15000
+1235,Onewa Road,Northcote Primary School,11728,15000
+1236,Onewa Road,Bruce Street,12119,15000
+1237,Onewa Road,Northcote Primary School,12376,15000
+1238,Onewa Road,Northcote Primary School,12650,15000
+1239,Onewa Road,St Mary Catholic Church,13435,15000
+1240,Onewa Road,Northcote Primary School,14205,15000
+1241,Onewa Road,Northcote Primary School,14674,15000
+1242,Onewa Road,St Mary Catholic Church,15184,20000
+1243,Onewa Road,St Mary Catholic Church,15190,20000
+1244,Onewa Road,St Mary Catholic Church,15234,20000
+1245,Onewa Road,Northcote Primary School,16177,20000
+1246,Onewa Road,Fanshawe Street,16881,20000
+1247,Onewa Road,Northcote Primary School,16891,20000
+1248,Onewa Road,St Mary Catholic Church,17459,20000
+1249,Onewa Road,Fanshawe Street,17717,20000
+1250,Onewa Road,St Mary Catholic Church,18635,20000
+1251,Onewa Road,Bruce Street,18775,20000
+1252,Onewa Road,Fanshawe Street,19188,20000
+1253,Onewa Road,Fanshawe Street,19384,20000
+1254,Onewa Road,Bruce Street,20186,25000
+1255,Onewa Road,Northcote Primary School,20306,25000
+1256,Onewa Road,Bruce Street,20676,25000
+1257,Onewa Road,Bruce Street,21041,25000
+1258,Onewa Road,Northcote Primary School,21110,25000
+1259,Onewa Road,St Mary Catholic Church,21573,25000
+1260,Onewa Road,Bruce Street,22032,25000
+1261,Onewa Road,Northcote Primary School,22098,25000
+1262,Onewa Road,Fanshawe Street,22466,25000
+1263,Onewa Road,Bruce Street,22624,25000
+1264,Onewa Road,Fanshawe Street,22688,25000
+1265,Onewa Road,Fanshawe Street,22721,25000
+1266,Onewa Road,Bruce Street,22942,25000
+1267,Onewa Road,Fanshawe Street,23091,25000
+1268,Onewa Road,Northcote Primary School,25141,30000
+1269,Onewa Road,Bruce Street,25349,30000
+1270,Onewa Road,Northcote Primary School,25361,30000
+1271,Onewa Road,Bruce Street,25524,30000
+1272,Onewa Road,Northcote Primary School,25565,30000
+1273,Onewa Road,Northcote Primary School,25634,30000
+1274,Onewa Road,Northcote Primary School,25860,30000
+1275,Onewa Road,St Mary Catholic Church,27270,30000
+1276,Onewa Road,Bruce Street,27368,30000
+1277,Onewa Road,St Mary Catholic Church,27509,30000
+1278,Onewa Road,St Mary Catholic Church,28250,30000
+1279,Onewa Road,Fanshawe Street,28708,30000
+1280,Onewa Road,St Mary Catholic Church,29142,30000
+1281,Onewa Road,Fanshawe Street,29315,30000
+1282,Onewa Road,Fanshawe Street,30348,35000
+1283,Onewa Road,Northcote Primary School,30533,35000
+1284,Onewa Road,St Mary Catholic Church,30774,35000
+1285,Onewa Road,Fanshawe Street,31153,35000
+1286,Onewa Road,Bruce Street,31206,35000
+1287,Onewa Road,Fanshawe Street,31685,35000
+1288,Onewa Road,Fanshawe Street,32143,35000
+1289,Onewa Road,St Mary Catholic Church,32654,35000
+1290,Onewa Road,Northcote Primary School,33141,35000
+1291,Onewa Road,St Mary Catholic Church,33286,35000
+1292,Onewa Road,Northcote Primary School,33583,35000
+1293,Onewa Road,Fanshawe Street,33733,35000
+1294,Onewa Road,Northcote Primary School,33734,35000
+1295,Onewa Road,Northcote Primary School,34031,35000
+1296,Onewa Road,St Mary Catholic Church,34048,35000
+1297,Onewa Road,Fanshawe Street,34101,35000
+1298,Onewa Road,Fanshawe Street,34607,35000
+1299,Onewa Road,Bruce Street,34696,35000
+1300,Onewa Road,St Mary Catholic Church,35280,40000
+1301,Onewa Road,St Mary Catholic Church,35302,40000
+1302,Onewa Road,Bruce Street,35521,40000
+1303,Onewa Road,Bruce Street,36285,40000
+1304,Onewa Road,St Mary Catholic Church,36351,40000
+1305,Onewa Road,Fanshawe Street,36938,40000
+1306,Onewa Road,Northcote Primary School,37502,40000
+1307,Onewa Road,St Mary Catholic Church,37823,40000
+1308,Onewa Road,Bruce Street,38053,40000
+1309,Onewa Road,Northcote Primary School,38511,40000
+1310,Onewa Road,Bruce Street,39262,40000
+1311,Onewa Road,St Mary Catholic Church,39413,40000
+1312,Onewa Road,Fanshawe Street,40637,45000
+1313,Onewa Road,Northcote Primary School,40947,45000
+1314,Onewa Road,Bruce Street,41003,45000
+1315,Onewa Road,Bruce Street,41678,45000
+1316,Onewa Road,Fanshawe Street,41686,45000
+1317,Onewa Road,St Mary Catholic Church,41950,45000
+1318,Onewa Road,St Mary Catholic Church,42264,45000
+1319,Onewa Road,St Mary Catholic Church,42353,45000
+1320,St Mary Catholic Church,Fanshawe Street,141,5500
+1321,St Mary Catholic Church,Northcote Primary School,782,5500
+1322,St Mary Catholic Church,Bruce Street,827,5500
+1323,St Mary Catholic Church,Fanshawe Street,891,5500
+1324,St Mary Catholic Church,Northcote Primary School,1426,5500
+1325,St Mary Catholic Church,Northcote Primary School,1633,5500
+1326,St Mary Catholic Church,Northcote Primary School,1693,5500
+1327,St Mary Catholic Church,Northcote Primary School,2530,5500
+1328,St Mary Catholic Church,Northcote Primary School,3955,5500
+1329,St Mary Catholic Church,Bruce Street,4510,5500
+1330,St Mary Catholic Church,Northcote Primary School,4526,5500
+1331,St Mary Catholic Church,Northcote Primary School,4560,5500
+1332,St Mary Catholic Church,Northcote Primary School,4853,5500
+1333,St Mary Catholic Church,Fanshawe Street,6459,10500
+1334,St Mary Catholic Church,Fanshawe Street,7097,10500
+1335,St Mary Catholic Church,Bruce Street,7100,10500
+1336,St Mary Catholic Church,Fanshawe Street,7201,10500
+1337,St Mary Catholic Church,Fanshawe Street,7463,10500
+1338,St Mary Catholic Church,Bruce Street,7724,10500
+1339,St Mary Catholic Church,Fanshawe Street,7892,10500
+1340,St Mary Catholic Church,Bruce Street,8751,10500
+1341,St Mary Catholic Church,Fanshawe Street,9112,10500
+1342,St Mary Catholic Church,Bruce Street,9369,10500
+1343,St Mary Catholic Church,Fanshawe Street,9426,10500
+1344,St Mary Catholic Church,Bruce Street,9618,10500
+1345,St Mary Catholic Church,Bruce Street,9931,10500
+1346,St Mary Catholic Church,Bruce Street,10700,15500
+1347,St Mary Catholic Church,Northcote Primary School,11097,15500
+1348,St Mary Catholic Church,Bruce Street,11145,15500
+1349,St Mary Catholic Church,Fanshawe Street,11503,15500
+1350,St Mary Catholic Church,Fanshawe Street,11847,15500
+1351,St Mary Catholic Church,Bruce Street,12272,15500
+1352,St Mary Catholic Church,Northcote Primary School,12283,15500
+1353,St Mary Catholic Church,Northcote Primary School,12378,15500
+1354,St Mary Catholic Church,Northcote Primary School,12650,15500
+1355,St Mary Catholic Church,Northcote Primary School,12855,15500
+1356,St Mary Catholic Church,Bruce Street,13116,15500
+1357,St Mary Catholic Church,Fanshawe Street,13320,15500
+1358,St Mary Catholic Church,Fanshawe Street,14114,15500
+1359,St Mary Catholic Church,Northcote Primary School,14797,15500
+1360,St Mary Catholic Church,Northcote Primary School,15532,20500
+1361,St Mary Catholic Church,Northcote Primary School,16179,20500
+1362,St Mary Catholic Church,Northcote Primary School,17471,20500
+1363,St Mary Catholic Church,Fanshawe Street,17701,20500
+1364,St Mary Catholic Church,Northcote Primary School,17879,20500
+1365,St Mary Catholic Church,Bruce Street,18047,20500
+1366,St Mary Catholic Church,Northcote Primary School,18546,20500
+1367,St Mary Catholic Church,Bruce Street,18993,20500
+1368,St Mary Catholic Church,Fanshawe Street,19229,20500
+1369,St Mary Catholic Church,Fanshawe Street,19626,20500
+1370,St Mary Catholic Church,Fanshawe Street,19827,20500
+1371,St Mary Catholic Church,Bruce Street,19867,20500
+1372,St Mary Catholic Church,Fanshawe Street,20175,20500
+1373,St Mary Catholic Church,Fanshawe Street,20887,25500
+1374,St Mary Catholic Church,Fanshawe Street,21426,25500
+1375,St Mary Catholic Church,Bruce Street,22608,25500
+1376,St Mary Catholic Church,Fanshawe Street,22683,25500
+1377,St Mary Catholic Church,Northcote Primary School,23312,25500
+1378,St Mary Catholic Church,Fanshawe Street,24049,25500
+1379,St Mary Catholic Church,Fanshawe Street,24602,25500
+1380,St Mary Catholic Church,Fanshawe Street,24649,25500
+1381,St Mary Catholic Church,Bruce Street,24687,25500
+1382,St Mary Catholic Church,Northcote Primary School,24912,25500
+1383,St Mary Catholic Church,Fanshawe Street,25696,30500
+1384,St Mary Catholic Church,Fanshawe Street,26035,30500
+1385,St Mary Catholic Church,Fanshawe Street,26291,30500
+1386,St Mary Catholic Church,Fanshawe Street,27175,30500
+1387,St Mary Catholic Church,Fanshawe Street,27334,30500
+1388,St Mary Catholic Church,Northcote Primary School,27480,30500
+1389,St Mary Catholic Church,Bruce Street,28045,30500
+1390,St Mary Catholic Church,Bruce Street,28510,30500
+1391,St Mary Catholic Church,Fanshawe Street,29480,30500
+1392,St Mary Catholic Church,Northcote Primary School,29525,30500
+1393,St Mary Catholic Church,Fanshawe Street,29603,30500
+1394,St Mary Catholic Church,Northcote Primary School,29748,30500
+1395,St Mary Catholic Church,Bruce Street,30402,30500
+1396,St Mary Catholic Church,Northcote Primary School,30885,35500
+1397,St Mary Catholic Church,Northcote Primary School,31295,35500
+1398,St Mary Catholic Church,Bruce Street,31610,35500
+1399,St Mary Catholic Church,Northcote Primary School,31793,35500
+1400,St Mary Catholic Church,Fanshawe Street,32166,35500
+1401,St Mary Catholic Church,Fanshawe Street,32222,35500
+1402,St Mary Catholic Church,Bruce Street,32562,35500
+1403,St Mary Catholic Church,Northcote Primary School,32766,35500
+1404,St Mary Catholic Church,Bruce Street,34659,35500
+1405,St Mary Catholic Church,Fanshawe Street,35154,35500
+1406,St Mary Catholic Church,Fanshawe Street,35195,35500
+1407,St Mary Catholic Church,Bruce Street,35327,35500
+1408,St Mary Catholic Church,Northcote Primary School,35512,40500
+1409,St Mary Catholic Church,Fanshawe Street,35667,40500
+1410,St Mary Catholic Church,Bruce Street,36264,40500
+1411,St Mary Catholic Church,Bruce Street,36335,40500
+1412,St Mary Catholic Church,Fanshawe Street,36518,40500
+1413,St Mary Catholic Church,Northcote Primary School,37142,40500
+1414,St Mary Catholic Church,Northcote Primary School,37480,40500
+1415,St Mary Catholic Church,Northcote Primary School,37777,40500
+1416,St Mary Catholic Church,Fanshawe Street,38692,40500
+1417,St Mary Catholic Church,Northcote Primary School,38713,40500
+1418,St Mary Catholic Church,Northcote Primary School,38879,40500
+1419,St Mary Catholic Church,Northcote Primary School,39268,40500
+1420,St Mary Catholic Church,Fanshawe Street,40143,40500
+1421,St Mary Catholic Church,Fanshawe Street,40681,45500
+1422,St Mary Catholic Church,Fanshawe Street,40746,45500
+1423,St Mary Catholic Church,Bruce Street,40935,45500
+1424,St Mary Catholic Church,Northcote Primary School,41014,45500
+1425,St Mary Catholic Church,Bruce Street,41735,45500
+1426,St Mary Catholic Church,Bruce Street,41897,45500
+1427,St Mary Catholic Church,Northcote Primary School,42897,45500
+1428,St Mary Catholic Church,Fanshawe Street,42929,45500
+1429,St Mary Catholic Church,Bruce Street,43237,45500
+1430,St Mary Catholic Church,Fanshawe Street,43582,45500
+1431,St Mary Catholic Church,Fanshawe Street,44147,45500
+1432,St Mary Catholic Church,Fanshawe Street,44167,45500
+1433,St Mary Catholic Church,Bruce Street,44456,45500
+1434,St Mary Catholic Church,Fanshawe Street,44753,45500
+1435,St Mary Catholic Church,Northcote Primary School,46023,50500
+1436,St Mary Catholic Church,Northcote Primary School,46055,50500
+1437,St Mary Catholic Church,Fanshawe Street,46230,50500
+1438,St Mary Catholic Church,Bruce Street,46385,50500
+1439,St Mary Catholic Church,Bruce Street,46387,50500
+1440,Northcote Primary School,Fanshawe Street,298,6000
+1441,Northcote Primary School,Bruce Street,358,6000
+1442,Northcote Primary School,Bruce Street,713,6000
+1443,Northcote Primary School,Bruce Street,914,6000
+1444,Northcote Primary School,Fanshawe Street,969,6000
+1445,Northcote Primary School,Fanshawe Street,1650,6000
+1446,Northcote Primary School,Fanshawe Street,1682,6000
+1447,Northcote Primary School,Bruce Street,1746,6000
+1448,Northcote Primary School,Fanshawe Street,2079,6000
+1449,Northcote Primary School,Fanshawe Street,3511,6000
+1450,Northcote Primary School,Fanshawe Street,3560,6000
+1451,Northcote Primary School,Bruce Street,3592,6000
+1452,Northcote Primary School,Bruce Street,4000,6000
+1453,Northcote Primary School,Fanshawe Street,4147,6000
+1454,Northcote Primary School,Fanshawe Street,4892,6000
+1455,Northcote Primary School,Bruce Street,4979,6000
+1456,Northcote Primary School,Fanshawe Street,5192,6000
+1457,Northcote Primary School,Fanshawe Street,6839,11000
+1458,Northcote Primary School,Bruce Street,7217,11000
+1459,Northcote Primary School,Fanshawe Street,7281,11000
+1460,Northcote Primary School,Bruce Street,7597,11000
+1461,Northcote Primary School,Fanshawe Street,8748,11000
+1462,Northcote Primary School,Bruce Street,9248,11000
+1463,Northcote Primary School,Bruce Street,9664,11000
+1464,Northcote Primary School,Bruce Street,9701,11000
+1465,Northcote Primary School,Bruce Street,9913,11000
+1466,Northcote Primary School,Fanshawe Street,10297,11000
+1467,Northcote Primary School,Fanshawe Street,10415,11000
+1468,Northcote Primary School,Fanshawe Street,10649,11000
+1469,Northcote Primary School,Bruce Street,13045,16000
+1470,Northcote Primary School,Fanshawe Street,13419,16000
+1471,Northcote Primary School,Fanshawe Street,13717,16000
+1472,Northcote Primary School,Fanshawe Street,13728,16000
+1473,Northcote Primary School,Fanshawe Street,14749,16000
+1474,Northcote Primary School,Bruce Street,14769,16000
+1475,Northcote Primary School,Fanshawe Street,15590,16000
+1476,Northcote Primary School,Bruce Street,15678,16000
+1477,Northcote Primary School,Bruce Street,16593,21000
+1478,Northcote Primary School,Fanshawe Street,16927,21000
+1479,Northcote Primary School,Bruce Street,17610,21000
+1480,Northcote Primary School,Bruce Street,18161,21000
+1481,Northcote Primary School,Bruce Street,18922,21000
+1482,Northcote Primary School,Bruce Street,20318,21000
+1483,Northcote Primary School,Bruce Street,20894,21000
+1484,Northcote Primary School,Fanshawe Street,21609,26000
+1485,Northcote Primary School,Fanshawe Street,22446,26000
+1486,Northcote Primary School,Bruce Street,23303,26000
+1487,Northcote Primary School,Fanshawe Street,25699,26000
+1488,Northcote Primary School,Fanshawe Street,25742,26000
+1489,Northcote Primary School,Fanshawe Street,25796,26000
+1490,Northcote Primary School,Bruce Street,26162,31000
+1491,Northcote Primary School,Bruce Street,26782,31000
+1492,Northcote Primary School,Bruce Street,27399,31000
+1493,Northcote Primary School,Fanshawe Street,27736,31000
+1494,Northcote Primary School,Bruce Street,27833,31000
+1495,Northcote Primary School,Fanshawe Street,27860,31000
+1496,Northcote Primary School,Bruce Street,28072,31000
+1497,Northcote Primary School,Bruce Street,28087,31000
+1498,Northcote Primary School,Fanshawe Street,28283,31000
+1499,Northcote Primary School,Fanshawe Street,28591,31000
+1500,Northcote Primary School,Fanshawe Street,28604,31000
+1501,Northcote Primary School,Bruce Street,29712,31000
+1502,Northcote Primary School,Bruce Street,30423,31000
+1503,Northcote Primary School,Fanshawe Street,33795,36000
+1504,Northcote Primary School,Bruce Street,34422,36000
+1505,Northcote Primary School,Fanshawe Street,34647,36000
+1506,Northcote Primary School,Fanshawe Street,34780,36000
+1507,Northcote Primary School,Bruce Street,34918,36000
+1508,Northcote Primary School,Bruce Street,34973,36000
+1509,Northcote Primary School,Bruce Street,35180,36000
+1510,Northcote Primary School,Bruce Street,35545,36000
+1511,Northcote Primary School,Fanshawe Street,36439,41000
+1512,Northcote Primary School,Fanshawe Street,36997,41000
+1513,Northcote Primary School,Fanshawe Street,37155,41000
+1514,Northcote Primary School,Fanshawe Street,37226,41000
+1515,Northcote Primary School,Fanshawe Street,37357,41000
+1516,Northcote Primary School,Bruce Street,37678,41000
+1517,Northcote Primary School,Fanshawe Street,37992,41000
+1518,Northcote Primary School,Fanshawe Street,38238,41000
+1519,Northcote Primary School,Fanshawe Street,39686,41000
+1520,Northcote Primary School,Bruce Street,39948,41000
+1521,Northcote Primary School,Bruce Street,40232,41000
+1522,Northcote Primary School,Bruce Street,40301,41000
+1523,Northcote Primary School,Fanshawe Street,40802,41000
+1524,Northcote Primary School,Bruce Street,41273,46000
+1525,Northcote Primary School,Bruce Street,41338,46000
+1526,Northcote Primary School,Fanshawe Street,41418,46000
+1527,Northcote Primary School,Bruce Street,41998,46000
+1528,Northcote Primary School,Fanshawe Street,42187,46000
+1529,Northcote Primary School,Fanshawe Street,42195,46000
+1530,Northcote Primary School,Bruce Street,42376,46000
+1531,Northcote Primary School,Fanshawe Street,42835,46000
+1532,Northcote Primary School,Bruce Street,43193,46000
+1533,Northcote Primary School,Fanshawe Street,43346,46000
+1534,Northcote Primary School,Fanshawe Street,43471,46000
+1535,Northcote Primary School,Fanshawe Street,43487,46000
+1536,Northcote Primary School,Bruce Street,43645,46000
+1537,Northcote Primary School,Fanshawe Street,43723,46000
+1538,Northcote Primary School,Bruce Street,43943,46000
+1539,Northcote Primary School,Fanshawe Street,44159,46000
+1540,Northcote Primary School,Bruce Street,44221,46000
+1541,Northcote Primary School,Fanshawe Street,44232,46000
+1542,Northcote Primary School,Bruce Street,44249,46000
+1543,Northcote Primary School,Bruce Street,44608,46000
+1544,Northcote Primary School,Fanshawe Street,45137,46000
+1545,Northcote Primary School,Bruce Street,45642,46000
+1546,Northcote Primary School,Bruce Street,45665,46000
+1547,Northcote Primary School,Bruce Street,45715,46000
+1548,Northcote Primary School,Bruce Street,46002,51000
+1549,Northcote Primary School,Fanshawe Street,46313,51000
+1550,Northcote Primary School,Fanshawe Street,46365,51000
+1551,Northcote Primary School,Fanshawe Street,46629,51000
+1552,Northcote Primary School,Bruce Street,46712,51000
+1553,Northcote Primary School,Bruce Street,47458,51000
+1554,Northcote Primary School,Fanshawe Street,47697,51000
+1555,Northcote Primary School,Bruce Street,48159,51000
+1556,Northcote Primary School,Fanshawe Street,48816,51000
+1557,Northcote Primary School,Fanshawe Street,48898,51000
+1558,Northcote Primary School,Bruce Street,49096,51000
+1559,Northcote Primary School,Bruce Street,49158,51000
+1560,Bruce Street,Fanshawe Street,41,6500
+1561,Bruce Street,Fanshawe Street,703,6500
+1562,Bruce Street,Fanshawe Street,826,6500
+1563,Bruce Street,Fanshawe Street,1452,6500
+1564,Bruce Street,Fanshawe Street,2119,6500
+1565,Bruce Street,Fanshawe Street,2199,6500
+1566,Bruce Street,Fanshawe Street,2235,6500
+1567,Bruce Street,Fanshawe Street,3148,6500
+1568,Bruce Street,Fanshawe Street,3360,6500
+1569,Bruce Street,Fanshawe Street,3537,6500
+1570,Bruce Street,Fanshawe Street,3707,6500
+1571,Bruce Street,Fanshawe Street,3837,6500
+1572,Bruce Street,Fanshawe Street,4007,6500
+1573,Bruce Street,Fanshawe Street,4467,6500
+1574,Bruce Street,Fanshawe Street,5296,6500
+1575,Bruce Street,Fanshawe Street,6090,6500
+1576,Bruce Street,Fanshawe Street,6129,6500
+1577,Bruce Street,Fanshawe Street,6202,6500
+1578,Bruce Street,Fanshawe Street,6203,6500
+1579,Bruce Street,Fanshawe Street,6512,11500
+1580,Bruce Street,Fanshawe Street,6629,11500
+1581,Bruce Street,Fanshawe Street,7838,11500
+1582,Bruce Street,Fanshawe Street,7948,11500
+1583,Bruce Street,Fanshawe Street,7956,11500
+1584,Bruce Street,Fanshawe Street,8481,11500
+1585,Bruce Street,Fanshawe Street,8732,11500
+1586,Bruce Street,Fanshawe Street,10598,11500
+1587,Bruce Street,Fanshawe Street,11081,11500
+1588,Bruce Street,Fanshawe Street,11197,11500
+1589,Bruce Street,Fanshawe Street,11576,16500
+1590,Bruce Street,Fanshawe Street,11597,16500
+1591,Bruce Street,Fanshawe Street,11691,16500
+1592,Bruce Street,Fanshawe Street,11921,16500
+1593,Bruce Street,Fanshawe Street,12115,16500
+1594,Bruce Street,Fanshawe Street,12567,16500
+1595,Bruce Street,Fanshawe Street,12573,16500
+1596,Bruce Street,Fanshawe Street,13343,16500
+1597,Bruce Street,Fanshawe Street,14010,16500
+1598,Bruce Street,Fanshawe Street,14398,16500
+1599,Bruce Street,Fanshawe Street,14469,16500
+1600,Bruce Street,Fanshawe Street,14634,16500
+1601,Bruce Street,Fanshawe Street,14930,16500
+1602,Bruce Street,Fanshawe Street,15311,16500
+1603,Bruce Street,Fanshawe Street,15628,16500
+1604,Bruce Street,Fanshawe Street,16024,16500
+1605,Bruce Street,Fanshawe Street,17561,21500
+1606,Bruce Street,Fanshawe Street,18496,21500
+1607,Bruce Street,Fanshawe Street,18676,21500
+1608,Bruce Street,Fanshawe Street,18687,21500
+1609,Bruce Street,Fanshawe Street,19981,21500
+1610,Bruce Street,Fanshawe Street,21575,26500
+1611,Bruce Street,Fanshawe Street,21580,26500
+1612,Bruce Street,Fanshawe Street,22309,26500
+1613,Bruce Street,Fanshawe Street,23163,26500
+1614,Bruce Street,Fanshawe Street,23243,26500
+1615,Bruce Street,Fanshawe Street,23448,26500
+1616,Bruce Street,Fanshawe Street,23650,26500
+1617,Bruce Street,Fanshawe Street,23827,26500
+1618,Bruce Street,Fanshawe Street,24408,26500
+1619,Bruce Street,Fanshawe Street,24492,26500
+1620,Bruce Street,Fanshawe Street,24818,26500
+1621,Bruce Street,Fanshawe Street,24862,26500
+1622,Bruce Street,Fanshawe Street,25078,26500
+1623,Bruce Street,Fanshawe Street,25787,26500
+1624,Bruce Street,Fanshawe Street,25806,26500
+1625,Bruce Street,Fanshawe Street,26089,26500
+1626,Bruce Street,Fanshawe Street,26199,26500
+1627,Bruce Street,Fanshawe Street,26343,26500
+1628,Bruce Street,Fanshawe Street,26630,31500
+1629,Bruce Street,Fanshawe Street,26848,31500
+1630,Bruce Street,Fanshawe Street,27448,31500
+1631,Bruce Street,Fanshawe Street,27475,31500
+1632,Bruce Street,Fanshawe Street,28170,31500
+1633,Bruce Street,Fanshawe Street,28226,31500
+1634,Bruce Street,Fanshawe Street,28904,31500
+1635,Bruce Street,Fanshawe Street,29122,31500
+1636,Bruce Street,Fanshawe Street,29435,31500
+1637,Bruce Street,Fanshawe Street,29677,31500
+1638,Bruce Street,Fanshawe Street,30037,31500
+1639,Bruce Street,Fanshawe Street,30200,31500
+1640,Bruce Street,Fanshawe Street,30245,31500
+1641,Bruce Street,Fanshawe Street,30916,31500
+1642,Bruce Street,Fanshawe Street,30990,31500
+1643,Bruce Street,Fanshawe Street,31134,31500
+1644,Bruce Street,Fanshawe Street,31202,31500
+1645,Bruce Street,Fanshawe Street,31212,31500
+1646,Bruce Street,Fanshawe Street,31351,31500
+1647,Bruce Street,Fanshawe Street,31434,31500
+1648,Bruce Street,Fanshawe Street,31553,36500
+1649,Bruce Street,Fanshawe Street,32121,36500
+1650,Bruce Street,Fanshawe Street,32164,36500
+1651,Bruce Street,Fanshawe Street,32782,36500
+1652,Bruce Street,Fanshawe Street,33861,36500
+1653,Bruce Street,Fanshawe Street,34019,36500
+1654,Bruce Street,Fanshawe Street,34321,36500
+1655,Bruce Street,Fanshawe Street,34723,36500
+1656,Bruce Street,Fanshawe Street,35654,36500
+1657,Bruce Street,Fanshawe Street,35850,36500
+1658,Bruce Street,Fanshawe Street,35991,36500
+1659,Bruce Street,Fanshawe Street,37389,41500
+1660,Bruce Street,Fanshawe Street,37459,41500
+1661,Bruce Street,Fanshawe Street,37691,41500
+1662,Bruce Street,Fanshawe Street,38004,41500
+1663,Bruce Street,Fanshawe Street,38341,41500
+1664,Bruce Street,Fanshawe Street,38407,41500
+1665,Bruce Street,Fanshawe Street,38662,41500
+1666,Bruce Street,Fanshawe Street,39032,41500
+1667,Bruce Street,Fanshawe Street,39209,41500
+1668,Bruce Street,Fanshawe Street,39359,41500
+1669,Bruce Street,Fanshawe Street,40051,41500
+1670,Bruce Street,Fanshawe Street,40595,41500
+1671,Bruce Street,Fanshawe Street,40918,41500
+1672,Bruce Street,Fanshawe Street,41163,41500
+1673,Bruce Street,Fanshawe Street,41298,41500
+1674,Bruce Street,Fanshawe Street,41806,46500
+1675,Bruce Street,Fanshawe Street,42170,46500
+1676,Bruce Street,Fanshawe Street,42586,46500
+1677,Bruce Street,Fanshawe Street,42617,46500
+1678,Bruce Street,Fanshawe Street,42693,46500
+1679,Bruce Street,Fanshawe Street,43555,46500
