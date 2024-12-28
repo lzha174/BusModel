@@ -25,9 +25,9 @@ class Busstation:
 
 class Route:
 
-    def __init__(self, id, flySequence: list[int]):
+    def __init__(self, id, stop_sequence: list[int]):
         self.id = id
-        self.busStopSequence = flySequence
+        self.busStopSequence = stop_sequence
 
     def __str__(self):
         return f'route  {self.id}  {[busStopDict[i] for i in self.busStopSequence]}'
@@ -40,7 +40,7 @@ class Bus:
         self.route = route
         self.startTime = startTime
     def __str__(self):
-        return f'airplne {self.id} fly {self.route}'
+        return f'bus {self.id} run route {self.route}'
     def __repr__(self):
         return self.__str__()
     def get_depart_time(self):
@@ -53,9 +53,9 @@ class Passanger:
         self.departBusStop = departBusStop
         self.arriveBusStop = arriveBusStop
         self.timeAtStop = timeAtStop
-        self.on_bus = 0
-        self.leave_bus = 0
-        self.busId = 0
+        self.on_bus = None
+        self.leave_bus = None
+        self.busId = None
     def __str__(self):
         return f'passange {self.id} fly from  {busStopDict[self.departBusStop]} to {busStopDict[self.arriveBusStop]}'
     def __repr__(self):
@@ -119,7 +119,8 @@ def generatePassangers():
             x = next(gen)
             start += x
             print(f'next arrival at time {start} millionsec')
-            p = Passanger(id=len(passangers), busId=0, departBusStop=startStop, arriveBusStop=endStop, timeAtStop=start)
+            p = Passanger(id=len(passangers), busId=None, departBusStop=startStop, arriveBusStop=endStop,
+                          timeAtStop=start)
             passangers.append(p)
     return passangers
 
@@ -184,7 +185,7 @@ class BusSimulation:
     def passangerSim(self, idx):
         yield self.env.timeout(self.passangers[idx].timeAtStop)
 
-        # passanger can wait for any plane he can catch
+        # passanger can wait for any bus he can catch
 
         successOnBus = False
         busLeft = []
@@ -268,9 +269,9 @@ pData = []
 for p in passangers:
     print(f'{p.id} on bus {p.busId} at time {p.get_on_bus()} from stop {busStopDict[p.departBusStop]} '
           f' wait at {p.timeAtStop} to {busStopDict[p.arriveBusStop]} arrive at time {p.leave_bus} ')
-    pData.append([p.id, busStopDict[p.departBusStop], busStopDict[p.arriveBusStop], p.timeAtStop, p.get_on_bus()])
+    pData.append([p.id, busStopDict[p.departBusStop], busStopDict[p.arriveBusStop], p.timeAtStop, p.get_on_bus(), p.leave_bus])
 
-pLog = pandas.DataFrame(pData, columns = ['id', 'start', 'dest', 'show time', 'on bus'])
+pLog = pandas.DataFrame(pData, columns = ['id', 'start', 'dest', 'show time', 'on bus', 'leave'])
 pLog.to_csv('passangers.csv', index=False)
 
 import matplotlib.pyplot as plt
@@ -323,4 +324,4 @@ def plot_bus_table(buses: list[Bus], passengers:list[Passanger] = []):
     plt.legend()
     plt.show()
 
-#plot_bus_table(buses, passangers)
+plot_bus_table(buses, passangers)
